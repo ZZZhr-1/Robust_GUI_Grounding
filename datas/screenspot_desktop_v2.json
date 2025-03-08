@@ -1,0 +1,3940 @@
+[
+  {
+    "img_filename": "pc_ede36f9b-1154-4f76-b7f8-c15d7d3f9b6e.png",
+    "bbox": [
+      910,
+      78,
+      44,
+      34
+    ],
+    "instruction": "close this window",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_5e09e8e9-7ef6-44be-ad54-aeaeac151897.png",
+    "bbox": [
+      835,
+      0,
+      36,
+      30
+    ],
+    "instruction": "minimize this window",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_2c6dc6ea-fd6f-4cbb-9954-2d6a68610a48.png",
+    "bbox": [
+      1477,
+      450,
+      184,
+      230
+    ],
+    "instruction": "view solitaire daily challenges",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_b072d03a-51cb-4dd6-bdeb-152d3fd44e6b.png",
+    "bbox": [
+      176,
+      202,
+      99,
+      101
+    ],
+    "instruction": "open the Microsoft store",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_ac2d2c5e-fe5a-4233-95b4-2de18ef76a9e.png",
+    "bbox": [
+      635,
+      360,
+      42,
+      63
+    ],
+    "instruction": "adjust the style",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_f0122b91-3f8b-4510-9a6e-f0239d84b94e.png",
+    "bbox": [
+      697,
+      63,
+      34,
+      32
+    ],
+    "instruction": "minimize calculator",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_354a6cb2-3fe0-4cea-950c-d7f8e01fdf45.png",
+    "bbox": [
+      843,
+      7,
+      48,
+      39
+    ],
+    "instruction": "open the download page",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_d6b09201-c944-4ad9-a0a2-ff78e8f056ce.png",
+    "bbox": [
+      1,
+      434,
+      67,
+      66
+    ],
+    "instruction": "open the help menu",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_db6b6fa2-11cc-4b06-88cb-22c180f07a3b.png",
+    "bbox": [
+      9,
+      0,
+      35,
+      31
+    ],
+    "instruction": "save the file",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_6dfa677c-7772-46fb-8c83-14a33b0806b4.png",
+    "bbox": [
+      316,
+      0,
+      601,
+      38
+    ],
+    "instruction": "search for software ",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_bc9ed2f6-79c1-4a35-bcb5-4760bf4ed57d.png",
+    "bbox": [
+      880,
+      6,
+      36,
+      31
+    ],
+    "instruction": "add this page to favourites",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_2c56f301-8e71-4498-8e52-44b37ac1a298.png",
+    "bbox": [
+      458,
+      133,
+      452,
+      36
+    ],
+    "instruction": "choose language for windows",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_e618dc7e-8ffb-4a37-a317-9d3908c38395.png",
+    "bbox": [
+      883,
+      496,
+      62,
+      44
+    ],
+    "instruction": "input method toolbar",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_54779155-8627-4cac-8ea6-98277cfe0647.png",
+    "bbox": [
+      778,
+      4,
+      38,
+      41
+    ],
+    "instruction": "access the personal account interface",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_ad16765f-de52-4903-b406-fb5213b94db9.png",
+    "bbox": [
+      924,
+      496,
+      33,
+      44
+    ],
+    "instruction": "network and internet settings",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_1ebb6beb-3187-45a6-a5a6-e50aa9a327e5.png",
+    "bbox": [
+      813,
+      0,
+      34,
+      32
+    ],
+    "instruction": "open a new tab",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_221d3c5a-0a1b-456e-9676-7b5ff95cc1b1.png",
+    "bbox": [
+      10,
+      84,
+      50,
+      39
+    ],
+    "instruction": "click the file processing menu",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_a8b0f843-7aaf-4369-ac2b-a121f1ccb024.png",
+    "bbox": [
+      1,
+      30,
+      41,
+      39
+    ],
+    "instruction": "open settings",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_7f0b3e40-e5f5-462b-96c3-e8a97a3a504b.png",
+    "bbox": [
+      2,
+      48,
+      319,
+      40
+    ],
+    "instruction": "open the music library",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_8f88d498-d49a-4ab5-8aa6-aafa1428c3b7.png",
+    "bbox": [
+      177,
+      69,
+      282,
+      28
+    ],
+    "instruction": "copy the file",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_870d6da1-bc85-4e74-a1bd-ef6f975c2146.png",
+    "bbox": [
+      855,
+      495,
+      76,
+      45
+    ],
+    "instruction": "check the date and time menu",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_45c2712a-337d-4b6b-a47b-37ca4d5bdddd.png",
+    "bbox": [
+      0,
+      354,
+      260,
+      42
+    ],
+    "instruction": "open the sleep mode",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_133ac2cd-3eb3-4d45-be35-255a83831f97.png",
+    "bbox": [
+      607,
+      8,
+      349,
+      36
+    ],
+    "instruction": "search for local files",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_bd6711e1-ddc1-4873-8cf1-19654285f4ea.png",
+    "bbox": [
+      0,
+      0,
+      40,
+      32
+    ],
+    "instruction": "view the personal account",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_83462e63-b0cd-4921-9d19-8a534ed445c7.png",
+    "bbox": [
+      916,
+      13,
+      44,
+      39
+    ],
+    "instruction": "click the \"settings and more\" button",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_2b40c066-2f8f-4389-8df8-e70e8dfc1309.png",
+    "bbox": [
+      894,
+      0,
+      66,
+      64
+    ],
+    "instruction": "full-screen display",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_1f371830-d909-41ac-a340-921a594f05b0.png",
+    "bbox": [
+      2,
+      0,
+      32,
+      30
+    ],
+    "instruction": "undo",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_14fd6f5f-37d5-4b22-953e-626e11044f3e.png",
+    "bbox": [
+      918,
+      336,
+      41,
+      46
+    ],
+    "instruction": "Add a new shortcut to the toolbar",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_8834317b-7d08-40f1-9036-40743aba5d70.png",
+    "bbox": [
+      204,
+      205,
+      86,
+      84
+    ],
+    "instruction": "open local disk E",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_fa28755f-aee4-48f3-a484-02e670a6ff8f.png",
+    "bbox": [
+      537,
+      127,
+      279,
+      25
+    ],
+    "instruction": "create a new file",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_712496c8-6588-4b57-a89d-b17eaecc761b.png",
+    "bbox": [
+      6,
+      470,
+      104,
+      41
+    ],
+    "instruction": "open player settings",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_b1f1df2a-6c3d-40f9-ac70-dea7925c85dc.png",
+    "bbox": [
+      296,
+      157,
+      124,
+      37
+    ],
+    "instruction": "set up onedrive",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_61beef4d-1a93-47b3-8aff-ba0f7774cb43.png",
+    "bbox": [
+      605,
+      261,
+      17,
+      17
+    ],
+    "instruction": "fill in red",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_73f3744f-675f-44e3-8c55-ef34bdce0da9.png",
+    "bbox": [
+      420,
+      121,
+      305,
+      273
+    ],
+    "instruction": "open map",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_488287f0-9da5-4c6a-b236-109d3df56137.png",
+    "bbox": [
+      875,
+      253,
+      41,
+      33
+    ],
+    "instruction": "maximize window",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_eb0b756c-e471-40eb-bfaa-06b432094ac6.png",
+    "bbox": [
+      0,
+      105,
+      317,
+      40
+    ],
+    "instruction": "open account protection",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_dd51aeab-7e2c-40aa-82e6-0f870e49e6ba.png",
+    "bbox": [
+      605,
+      15,
+      61,
+      93
+    ],
+    "instruction": "add equation ",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_41efdca0-442c-471e-8188-45457f9287c3.png",
+    "bbox": [
+      601,
+      19,
+      37,
+      34
+    ],
+    "instruction": "minimize the window",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_8ce8a3b6-c2a9-4b69-986e-34b7d96e27ef.png",
+    "bbox": [
+      213,
+      63,
+      266,
+      69
+    ],
+    "instruction": "view the devices",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_80ab83db-da70-4a1d-b10e-a438a59b2197.png",
+    "bbox": [
+      299,
+      175,
+      182,
+      34
+    ],
+    "instruction": "Adjust screen timeout",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_0c634288-11b9-498f-8fb6-582e26ea17c9.png",
+    "bbox": [
+      165,
+      467,
+      53,
+      52
+    ],
+    "instruction": "start playback",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_dfd488a9-d3c6-4e00-844a-6d56834a367e.png",
+    "bbox": [
+      145,
+      12,
+      64,
+      90
+    ],
+    "instruction": "set the screenshot option",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_17bc1fc0-a71c-453d-a431-5ebcddeff38f.png",
+    "bbox": [
+      560,
+      603,
+      1095,
+      203
+    ],
+    "instruction": "add the subtitle",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_05f0185e-a291-4e4c-a777-ffb2c46037c6.png",
+    "bbox": [
+      390,
+      183,
+      304,
+      248
+    ],
+    "instruction": "adjust light rotation",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_aae370cb-9618-497e-8877-1a862725d28e.png",
+    "bbox": [
+      225,
+      139,
+      41,
+      69
+    ],
+    "instruction": "click the colour 2 button",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_f317f992-32e1-4470-ab0b-31910a70bcd4.png",
+    "bbox": [
+      561,
+      308,
+      1093,
+      289
+    ],
+    "instruction": "add the title",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_776b1aa0-a892-4461-b03a-88253e628426.png",
+    "bbox": [
+      18,
+      15,
+      44,
+      39
+    ],
+    "instruction": "refresh the page",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_580035fc-f55e-4817-b0c5-b741fb034cd0.png",
+    "bbox": [
+      441,
+      458,
+      32,
+      51
+    ],
+    "instruction": "click the button to play previous track",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_ac6779f8-a188-4633-bfcc-ab05ada6848c.png",
+    "bbox": [
+      872,
+      40,
+      37,
+      32
+    ],
+    "instruction": "pin to taskbar",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_3b590e58-aab0-42c4-9b74-7d1a6b7f26fe.png",
+    "bbox": [
+      17,
+      52,
+      483,
+      36
+    ],
+    "instruction": "enter the wegameapps folder",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_4ba904da-bd51-42ea-a96f-c5681c630058.png",
+    "bbox": [
+      232,
+      417,
+      88,
+      42
+    ],
+    "instruction": "check hourly weather",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_4cb20510-1be3-4ef8-ac47-2b49f4463555.png",
+    "bbox": [
+      0,
+      498,
+      48,
+      42
+    ],
+    "instruction": "open the menu of windows",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_f9867d85-5680-44ac-9bea-23acf5c9cc71.png",
+    "bbox": [
+      0,
+      0,
+      79,
+      84
+    ],
+    "instruction": "open the recycle bin",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_155fc26b-cddb-4a03-b636-322a45c054e6.png",
+    "bbox": [
+      912,
+      8,
+      43,
+      43
+    ],
+    "instruction": "open settings",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_942d98d0-92d0-49ab-bc98-49a700c1822b.png",
+    "bbox": [
+      552,
+      37,
+      158,
+      116
+    ],
+    "instruction": "check weather on tuesday",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_aa124117-8877-4805-9c69-0ce80e1afc71.png",
+    "bbox": [
+      0,
+      247,
+      318,
+      46
+    ],
+    "instruction": "open the playlists",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_e650b1a7-a1e4-4cb4-a2f0-a50f04ce9925.png",
+    "bbox": [
+      0,
+      498,
+      348,
+      42
+    ],
+    "instruction": "click the search bar",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_88dde48f-6594-4f17-b117-3529b2bde02e.png",
+    "bbox": [
+      7,
+      203,
+      28,
+      39
+    ],
+    "instruction": "back to previous folder",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_5b1e5fe2-e063-463f-ab56-2b09d17b88a5.png",
+    "bbox": [
+      154,
+      352,
+      100,
+      99
+    ],
+    "instruction": "open Samsung Printer Center",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_8ed762cb-06dd-493f-b770-7e02298433f8.png",
+    "bbox": [
+      732,
+      29,
+      55,
+      37
+    ],
+    "instruction": "turn on the mixed reality",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_56d9172e-1780-4fb7-8377-f9987b87508c.png",
+    "bbox": [
+      894,
+      126,
+      43,
+      52
+    ],
+    "instruction": "delete the downloaded file",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_5165f0b8-ea19-448e-bcfc-66de25666bb9.png",
+    "bbox": [
+      0,
+      26,
+      64,
+      65
+    ],
+    "instruction": "open the menu",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_ecf34119-ce66-4699-a169-60e5279a650f.png",
+    "bbox": [
+      660,
+      401,
+      299,
+      64
+    ],
+    "instruction": "switch to english",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_445877f4-ba58-468b-97b6-e770b1a9f02a.png",
+    "bbox": [
+      77,
+      0,
+      282,
+      28
+    ],
+    "instruction": "open the file",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_92e1062b-0d4a-4e14-8b25-b79e4b6c9b55.png",
+    "bbox": [
+      392,
+      50,
+      341,
+      36
+    ],
+    "instruction": "search for settings",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_09e2a811-2e5f-4cfc-9d6c-97acda34edf7.png",
+    "bbox": [
+      747,
+      302,
+      173,
+      26
+    ],
+    "instruction": "gradient option",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_c7974702-d944-412f-83b2-61f92cf3c68c.png",
+    "bbox": [
+      872,
+      12,
+      88,
+      31
+    ],
+    "instruction": "share the file",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_04d51f86-b324-4eb6-82f5-c8cd6cb3e79c.png",
+    "bbox": [
+      568,
+      256,
+      82,
+      51
+    ],
+    "instruction": "chech visibility",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_3a625c5d-db8a-41fb-b533-16a7c8a4f345.png",
+    "bbox": [
+      887,
+      20,
+      37,
+      36
+    ],
+    "instruction": "refresh the page",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_17904586-d58c-4f1d-8c1e-6a6697353b14.png",
+    "bbox": [
+      792,
+      13,
+      156,
+      65
+    ],
+    "instruction": "sign in",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_25eca08c-57eb-45b0-8c0b-79ccec8400ff.png",
+    "bbox": [
+      901,
+      0,
+      33,
+      22
+    ],
+    "instruction": "minimize the window.",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_cefd90d7-4af2-4370-b71e-8d4d5954c21e.png",
+    "bbox": [
+      620,
+      458,
+      82,
+      54
+    ],
+    "instruction": "number 5",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_8fc42b3c-c8bc-4866-b787-aed98a86d614.png",
+    "bbox": [
+      183,
+      24,
+      316,
+      44
+    ],
+    "instruction": "view sound settings.",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_a2b172fe-7e11-4795-8424-c18d5b65a009.png",
+    "bbox": [
+      503,
+      149,
+      97,
+      37
+    ],
+    "instruction": "get help",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_07faaa86-6e6b-457b-9a51-9b30edff21da.png",
+    "bbox": [
+      916,
+      455,
+      44,
+      41
+    ],
+    "instruction": "share the current page",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_ec8508be-641d-492a-bccc-a8279ae5bf9b.png",
+    "bbox": [
+      78,
+      29,
+      47,
+      91
+    ],
+    "instruction": "check the shape option",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_733fbb76-a188-4804-a2c6-788acf844d7c.png",
+    "bbox": [
+      105,
+      47,
+      42,
+      33
+    ],
+    "instruction": "back to previous page",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_02a8e358-8282-498b-b82e-c0f2b1b8d26a.png",
+    "bbox": [
+      614,
+      45,
+      345,
+      33
+    ],
+    "instruction": "search for files on disk e:",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_6f580940-6536-452e-9310-f9ebb87879eb.png",
+    "bbox": [
+      613,
+      52,
+      73,
+      86
+    ],
+    "instruction": "edit with paint 3d",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_8c0c6fa3-39d8-4633-aeb1-6544036c85bf.png",
+    "bbox": [
+      913,
+      504,
+      30,
+      36
+    ],
+    "instruction": "adjust the volume",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_ecde084e-e461-4c7c-9ddc-bccabc874747.png",
+    "bbox": [
+      30,
+      399,
+      108,
+      37
+    ],
+    "instruction": "learn more",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_140cfa7d-6933-4591-ae0d-a1eadda2d7b5.png",
+    "bbox": [
+      703,
+      51,
+      160,
+      73
+    ],
+    "instruction": "open videos folder",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_5a8a71e4-4c80-4b17-b724-a6b6d48a339f.png",
+    "bbox": [
+      610,
+      499,
+      123,
+      41
+    ],
+    "instruction": "check weather forecast",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_986f4ae9-9dd8-4c5c-b3d8-fb3fb5557d17.png",
+    "bbox": [
+      145,
+      13,
+      81,
+      56
+    ],
+    "instruction": "multiplicate",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_6dfaf0c7-a3e5-4e71-8431-5eeb9fb8e493.png",
+    "bbox": [
+      527,
+      243,
+      362,
+      36
+    ],
+    "instruction": "see more information",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_89fc8216-3292-418c-864f-edcce3c34dc5.png",
+    "bbox": [
+      790,
+      444,
+      42,
+      39
+    ],
+    "instruction": "adjust volume in the music player",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_c00e575a-fa2d-47c7-83cc-9f4e99f15720.png",
+    "bbox": [
+      0,
+      459,
+      260,
+      41
+    ],
+    "instruction": "restart the computer",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_b2579d6f-b494-47e3-872a-5e42a43f251a.png",
+    "bbox": [
+      782,
+      394,
+      146,
+      30
+    ],
+    "instruction": "adjust screen size",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_79eaf625-93f5-42a4-977e-71aba5418ff4.png",
+    "bbox": [11, 120, 145, 22],
+    "instruction": "go to the desktop",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_1f3eb0eb-2ab2-4e48-b278-de334846ee0d.png",
+    "bbox": [
+      406,
+      81,
+      351,
+      291
+    ],
+    "instruction": "choose the pig",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_6a8d5384-ca12-4ae2-b14c-4c9dc08d4896.png",
+    "bbox": [
+      97,
+      33,
+      1551,
+      35
+    ],
+    "instruction": "input a url",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_c0996a5a-3af1-487b-9060-7b1a6779e42f.png",
+    "bbox": [
+      59,
+      92,
+      321,
+      42
+    ],
+    "instruction": "go to the homepage",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_e18b4420-34da-4d60-889e-924a76fb5094.png",
+    "bbox": [
+      840,
+      11,
+      42,
+      37
+    ],
+    "instruction": "open the favourites",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_4c43fbd2-d84e-4bb4-8169-7a748530c1af.png",
+    "bbox": [
+      56,
+      393,
+      438,
+      117
+    ],
+    "instruction": "choose wechat",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_7e37689a-0657-4856-8adf-72a21ee640c9.png",
+    "bbox": [
+      251,
+      163,
+      227,
+      250
+    ],
+    "instruction": "check windows keyboard shortcuts",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_bb73a431-c05e-47a8-bd27-8c7cbc2f7f23.png",
+    "bbox": [
+      116,
+      22,
+      226,
+      28
+    ],
+    "instruction": "view the file sorting method",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_b4d4f0c2-5f8e-409e-ac20-b1a2c7d6f440.png",
+    "bbox": [
+      2,
+      100,
+      78,
+      92
+    ],
+    "instruction": "open Microsoft edge",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_5da8f8cd-8ba2-490a-86e0-5c82421a9bee.png",
+    "bbox": [
+      322,
+      67,
+      279,
+      26
+    ],
+    "instruction": "click to open the file",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_2d42ba96-b43d-4f3f-81c1-80c8c107ca1c.png",
+    "bbox": [
+      8,
+      33,
+      289,
+      34
+    ],
+    "instruction": "search for files",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_4392332d-683f-4746-bbb2-e9287d9cdae0.png",
+    "bbox": [
+      308,
+      203,
+      81,
+      84
+    ],
+    "instruction": "set the second photo as wallpaper",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_977de16a-870e-48f3-8a38-ec9e1efb9f77.png",
+    "bbox": [
+      555,
+      238,
+      161,
+      50
+    ],
+    "instruction": "add a language",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_16d04f01-66a7-45df-a189-66c29fa935d7.png",
+    "bbox": [
+      321,
+      482,
+      154,
+      37
+    ],
+    "instruction": "open files",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_d077a08e-e927-4daa-aaf1-2f2385eefa04.png",
+    "bbox": [
+      227,
+      188,
+      188,
+      235
+    ],
+    "instruction": "play the \"spider solitaire\"",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_01c641cb-aa78-4bae-80ea-dda820dd00eb.png",
+    "bbox": [
+      109,
+      144,
+      51,
+      73
+    ],
+    "instruction": "view paste option",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_9c3204c7-8a02-406a-8dee-5b363887258c.png",
+    "bbox": [
+      0,
+      21,
+      50,
+      39
+    ],
+    "instruction": "back to the previous page",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_471e7c2d-8c16-4626-9b8e-7e0fd79e3a32.png",
+    "bbox": [
+      181,
+      448,
+      31,
+      52
+    ],
+    "instruction": "click to play the next track",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_f92a83db-cb5b-4295-af83-3606639056be.png",
+    "bbox": [
+      273,
+      26,
+      67,
+      28
+    ],
+    "instruction": "review option",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_daa34642-1973-424e-a752-3b309fa6512b.png",
+    "bbox": [
+      907,
+      499,
+      50,
+      41
+    ],
+    "instruction": "check for two unread messages",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_58d89b93-10e2-41fe-8b6d-3532fd3bb832.png",
+    "bbox": [
+      0,
+      407,
+      50,
+      45
+    ],
+    "instruction": "view windows settings",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_79377abe-731c-4d3b-ab04-b332c4054b81.png",
+    "bbox": [
+      412,
+      326,
+      72,
+      45
+    ],
+    "instruction": "dismiss the account protection",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_9d04d927-2a44-4e0d-b752-57abf0a0522f.png",
+    "bbox": [
+      2,
+      23,
+      45,
+      42
+    ],
+    "instruction": "back to the previous page",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_c8b036c3-da02-490e-a09b-0a42b8d9f344.png",
+    "bbox": [
+      0,
+      391,
+      47,
+      42
+    ],
+    "instruction": "personal account options",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_3f7ea28c-0425-4837-a540-dc5bb23449b8.png",
+    "bbox": [
+      48,
+      25,
+      58,
+      29
+    ],
+    "instruction": "design option",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_7e7fa34c-9bb9-43bb-bad6-a7e62e7d0f95.png",
+    "bbox": [
+      52,
+      79,
+      247,
+      32
+    ],
+    "instruction": "open paint 3d",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_7e7fa34c-9bb9-43bb-bad6-a7e62e7d0f95.png",
+    "bbox": [
+      322,
+      154,
+      96,
+      96
+    ],
+    "instruction": "open microsoft edge",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_7e7fa34c-9bb9-43bb-bad6-a7e62e7d0f95.png",
+    "bbox": [
+      1,
+      593,
+      39,
+      41
+    ],
+    "instruction": "turn off the computer",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+    "bbox": [
+      4,
+      54,
+      298,
+      37
+    ],
+    "instruction": "switch to home",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+    "bbox": [
+      4,
+      3,
+      41,
+      30
+    ],
+    "instruction": "click the \"back to previous page\" button",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+    "bbox": [
+      319,
+      277,
+      241,
+      48
+    ],
+    "instruction": "open fax option",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_17b94559-9897-4b8e-ae34-c47ce5b5d46f.png",
+    "bbox": [925, 370, 131, 23],
+    "instruction": "need some help",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_5377c04c-7d8f-4377-b1ed-d7994722871f.png",
+    "bbox": [
+      12,
+      201,
+      337,
+      50
+    ],
+    "instruction": "check email and account",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_5377c04c-7d8f-4377-b1ed-d7994722871f.png",
+    "bbox": [
+      112,
+      2,
+      84,
+      42
+    ],
+    "instruction": "switch to documents",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_5377c04c-7d8f-4377-b1ed-d7994722871f.png",
+    "bbox": [
+      370,
+      509,
+      132,
+      34
+    ],
+    "instruction": "view the game for me",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+    "bbox": [
+      149,
+      62,
+      24,
+      31
+    ],
+    "instruction": "use pencil tool",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+    "bbox": [
+      283,
+      60,
+      42,
+      67
+    ],
+    "instruction": "click to choose shapes",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+    "bbox": [
+      368,
+      59,
+      42,
+      69
+    ],
+    "instruction": "select a new size",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_70f27c18-7de8-4445-b6fe-202fa17bbe04.png",
+    "bbox": [
+      63,
+      58,
+      43,
+      70
+    ],
+    "instruction": "use the select tool",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_3b7dab65-2cc4-4545-be95-93d4d2576b47.png",
+    "bbox": [
+      615,
+      229,
+      221,
+      219
+    ],
+    "instruction": "view the setting of protection of pc",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_3b7dab65-2cc4-4545-be95-93d4d2576b47.png",
+    "bbox": [
+      1099,
+      520,
+      204,
+      227
+    ],
+    "instruction": "view the get organized tips",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_44159aab-93c3-4ef6-8841-67a11225ca3f.png",
+    "bbox": [
+      6,
+      157,
+      429,
+      57
+    ],
+    "instruction": "log in using google account",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_44159aab-93c3-4ef6-8841-67a11225ca3f.png",
+    "bbox": [
+      9,
+      396,
+      435,
+      47
+    ],
+    "instruction": "check advanced setup",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_b34a8be5-2b1f-40fa-b348-41aac2bfb952.png",
+    "bbox": [
+      185,
+      432,
+      186,
+      52
+    ],
+    "instruction": "check the detail of uv index",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_b34a8be5-2b1f-40fa-b348-41aac2bfb952.png",
+    "bbox": [
+      624,
+      263,
+      129,
+      28
+    ],
+    "instruction": "see full forecast",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_b34a8be5-2b1f-40fa-b348-41aac2bfb952.png",
+    "bbox": [
+      0,
+      181,
+      47,
+      50
+    ],
+    "instruction": "the internet icon",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_efc1c0f0-366b-47a0-8e3f-0d197023a2bb.png",
+    "bbox": [
+      9,
+      232,
+      318,
+      48
+    ],
+    "instruction": "play the Klondike game",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_efc1c0f0-366b-47a0-8e3f-0d197023a2bb.png",
+    "bbox": [
+      972,
+      32,
+      164,
+      68
+    ],
+    "instruction": "sign in",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_f2244f33-a9c9-44e7-bacb-3e51f72d619e.png",
+    "bbox": [
+      2,
+      120,
+      247,
+      35
+    ],
+    "instruction": "choose standard mode",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_f2244f33-a9c9-44e7-bacb-3e51f72d619e.png",
+    "bbox": [
+      6,
+      397,
+      249,
+      39
+    ],
+    "instruction": "adjust the volume",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_639ab093-46ed-4332-9229-125647aad9da.png",
+    "bbox": [
+      2,
+      2,
+      30,
+      30
+    ],
+    "instruction": "add a new one",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_639ab093-46ed-4332-9229-125647aad9da.png",
+    "bbox": [
+      211,
+      274,
+      40,
+      36
+    ],
+    "instruction": "insert an image",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_57bf0c6a-5cdb-43c9-a807-7b1d83f5ab08.png",
+    "bbox": [
+      5,
+      78,
+      272,
+      38
+    ],
+    "instruction": "view the timer",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_57bf0c6a-5cdb-43c9-a807-7b1d83f5ab08.png",
+    "bbox": [
+      560,
+      555,
+      120,
+      30
+    ],
+    "instruction": "click get start",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_57bf0c6a-5cdb-43c9-a807-7b1d83f5ab08.png",
+    "bbox": [
+      4,
+      199,
+      272,
+      35
+    ],
+    "instruction": "view world clock",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+    "bbox": [
+      338,
+      29,
+      71,
+      54
+    ],
+    "instruction": "insert 3d shapes item",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+    "bbox": [
+      949,
+      29,
+      59,
+      53
+    ],
+    "instruction": "undo",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+    "bbox": [
+      962,
+      235,
+      98,
+      63
+    ],
+    "instruction": "click \"select all\"",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_050e2feb-60bf-401e-b6b0-28c0fe490347.png",
+    "bbox": [
+      962,
+      544,
+      39,
+      44
+    ],
+    "instruction": "rotate left",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_7b437f7a-8819-467b-b5a6-96e8588f15a2.png",
+    "bbox": [
+      3,
+      845,
+      289,
+      66
+    ],
+    "instruction": "check the updates",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_7b437f7a-8819-467b-b5a6-96e8588f15a2.png",
+    "bbox": [
+      515,
+      864,
+      66,
+      56
+    ],
+    "instruction": "view in youtube",
+    "data_type": "icon",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_56c33426-0532-47dd-bf74-2a560c5a63f0.png",
+    "bbox": [
+      2,
+      57,
+      63,
+      71
+    ],
+    "instruction": "empty recycle bin",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_56c33426-0532-47dd-bf74-2a560c5a63f0.png",
+    "bbox": [
+      138,
+      59,
+      49,
+      69
+    ],
+    "instruction": "restore all items",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_1f6ac92f-9273-4758-a571-d0c831bb1dba.png",
+    "bbox": [
+      4,
+      450,
+      309,
+      34
+    ],
+    "instruction": "check microphone permissions",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_1f6ac92f-9273-4758-a571-d0c831bb1dba.png",
+    "bbox": [
+      924,
+      292,
+      155,
+      55
+    ],
+    "instruction": "give feedback",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_85012b9e-3058-4501-a9c7-6415d31c7699.png",
+    "bbox": [
+      347,
+      396,
+      193,
+      30
+    ],
+    "instruction": "check the properties",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_85012b9e-3058-4501-a9c7-6415d31c7699.png",
+    "bbox": [
+      331,
+      593,
+      434,
+      56
+    ],
+    "instruction": "change adapter options",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_5df0bc8e-3005-4a32-b824-0318d6a05bdd.png",
+    "bbox": [
+      346,
+      268,
+      127,
+      130
+    ],
+    "instruction": "report a problem",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_5df0bc8e-3005-4a32-b824-0318d6a05bdd.png",
+    "bbox": [
+      2,
+      161,
+      314,
+      36
+    ],
+    "instruction": "switch to feedback",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_731487b7-f192-464c-8fc7-95af0962861f.png",
+    "bbox": [
+      23,
+      96,
+      334,
+      54
+    ],
+    "instruction": "check microphone",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_731487b7-f192-464c-8fc7-95af0962861f.png",
+    "bbox": [
+      125,
+      40,
+      41,
+      17
+    ],
+    "instruction": "switch to sounds",
+    "data_type": "text",
+    "data_source": "windows"
+  },
+  {
+    "img_filename": "pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "bbox": [
+      1025,
+      141,
+      104,
+      127
+    ],
+    "instruction": "check my apple id",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "bbox": [
+      1018,
+      368,
+      121,
+      147
+    ],
+    "instruction": "view the language & region settings",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "bbox": [
+      859,
+      952,
+      113,
+      153
+    ],
+    "instruction": "open time machine",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "bbox": [
+      41,
+      954,
+      110,
+      128
+    ],
+    "instruction": "check desplay settings",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_6f79b56c-2b0f-471d-9f9d-93932c69a0ce.png",
+    "bbox": [
+      39,
+      761,
+      111,
+      164
+    ],
+    "instruction": "software update",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
+    "bbox": [
+      492,
+      141,
+      148,
+      43
+    ],
+    "instruction": "switch to desktop settings",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
+    "bbox": [
+      347,
+      209,
+      350,
+      41
+    ],
+    "instruction": "show screen saver after",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_66906e9c-dc3c-49e9-aaf0-0e7d5efc97db.png",
+    "bbox": [
+      99,
+      425,
+      178,
+      147
+    ],
+    "instruction": "choose the ken burns as screen saver",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+    "bbox": [
+      672,
+      145,
+      142,
+      134
+    ],
+    "instruction": "switch to dark mode",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+    "bbox": [
+      499,
+      396,
+      304,
+      40
+    ],
+    "instruction": "choose highlight color",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+    "bbox": [
+      500,
+      891,
+      307,
+      46
+    ],
+    "instruction": "select default web browser",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_772a850b-eb35-4efb-9767-ef0eadeb70f0.png",
+    "bbox": [
+      502,
+      794,
+      423,
+      41
+    ],
+    "instruction": "jump to the spot that's clicked",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+    "bbox": [
+      681,
+      243,
+      113,
+      45
+    ],
+    "instruction": "switch to apps",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+    "bbox": [
+      78,
+      845,
+      53,
+      42
+    ],
+    "instruction": "add a new preferred language",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+    "bbox": [
+      335,
+      982,
+      338,
+      43
+    ],
+    "instruction": "translation languages setting",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_3ffab0d5-e99d-47b8-9684-ec9d8d063419.png",
+    "bbox": [
+      1048,
+      982,
+      185,
+      44
+    ],
+    "instruction": "advanced setting",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_819d6d6a-0ea9-46e0-869d-e17d271381ca.png",
+    "bbox": [
+      635,
+      13,
+      78,
+      51
+    ],
+    "instruction": "check the battery",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_819d6d6a-0ea9-46e0-869d-e17d271381ca.png",
+    "bbox": [
+      987,
+      13,
+      60,
+      48
+    ],
+    "instruction": "open siri",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_819d6d6a-0ea9-46e0-869d-e17d271381ca.png",
+    "bbox": [
+      526,
+      274,
+      144,
+      163
+    ],
+    "instruction": "open mind2web folder",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+    "bbox": [
+      969,
+      105,
+      272,
+      128
+    ],
+    "instruction": "switch on do not disturb mode",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+    "bbox": [
+      969,
+      250,
+      129,
+      126
+    ],
+    "instruction": "adjust keyboard brightness",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+    "bbox": [
+      683,
+      683,
+      558,
+      125
+    ],
+    "instruction": "go to music app",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_15bd214f-b45f-48f8-8125-21d79373a99e.png",
+    "bbox": [
+      701,
+      211,
+      189,
+      63
+    ],
+    "instruction": "check bluetooth",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_a4c60b7d-7f78-4255-8804-2dfbd297e09b.png",
+    "bbox": [
+      20,
+      150,
+      217,
+      47
+    ],
+    "instruction": "view files from airdrop",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_a4c60b7d-7f78-4255-8804-2dfbd297e09b.png",
+    "bbox": [
+      19,
+      376,
+      219,
+      44
+    ],
+    "instruction": "view downloads files",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_a4c60b7d-7f78-4255-8804-2dfbd297e09b.png",
+    "bbox": [
+      542,
+      390,
+      133,
+      171
+    ],
+    "instruction": "open synapse folder",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+    "bbox": [
+      1800,
+      1558,
+      44,
+      52
+    ],
+    "instruction": "zoom out",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+    "bbox": [
+      1846,
+      1556,
+      45,
+      55
+    ],
+    "instruction": "zoom in",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+    "bbox": [
+      198,
+      104,
+      187,
+      45
+    ],
+    "instruction": "switch to device",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_33eb9249-4ee4-4752-9541-8466efda3845.png",
+    "bbox": [
+      33,
+      1563,
+      283,
+      56
+    ],
+    "instruction": "share my location",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_dde13919-4c5b-49a1-8c8a-7d03f363c7ac.png",
+    "bbox": [
+      837,
+      2,
+      277,
+      57
+    ],
+    "instruction": "check the date and time",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_dde13919-4c5b-49a1-8c8a-7d03f363c7ac.png",
+    "bbox": [
+      509,
+      1,
+      67,
+      64
+    ],
+    "instruction": "connect wifi",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_e2bd639a-f297-48fd-bee0-3b7044b0ad57.png",
+    "bbox": [
+      26,
+      453,
+      556,
+      126
+    ],
+    "instruction": "drag the slider to adjust volume",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_e2bd639a-f297-48fd-bee0-3b7044b0ad57.png",
+    "bbox": [
+      457,
+      165,
+      125,
+      127
+    ],
+    "instruction": "use the screen mirroring",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_7ba3945d-3975-45f3-9145-71805a9723de.png",
+    "bbox": [
+      958,
+      98,
+      82,
+      56
+    ],
+    "instruction": "turn off airdrop",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_7ba3945d-3975-45f3-9145-71805a9723de.png",
+    "bbox": [
+      471,
+      176,
+      594,
+      69
+    ],
+    "instruction": "set as contacts only",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_e5c3f9ae-de8d-4457-8bdc-7c0aba699f38.png",
+    "bbox": [
+      470,
+      351,
+      594,
+      66
+    ],
+    "instruction": "open work mode ",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_e5c3f9ae-de8d-4457-8bdc-7c0aba699f38.png",
+    "bbox": [
+      469,
+      494,
+      597,
+      62
+    ],
+    "instruction": "check focus preferences",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_e5c3f9ae-de8d-4457-8bdc-7c0aba699f38.png",
+    "bbox": [
+      328,
+      1,
+      75,
+      66
+    ],
+    "instruction": "select input method",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_be3ea55b-e1f3-478a-8982-a05f37cc910f.png",
+    "bbox": [
+      181,
+      20,
+      67,
+      63
+    ],
+    "instruction": "back to previous page",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_be3ea55b-e1f3-478a-8982-a05f37cc910f.png",
+    "bbox": [
+      1245,
+      801,
+      70,
+      63
+    ],
+    "instruction": "question about bluetooth",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_65c6ab58-5f56-4a53-a65d-5e88511bbe0f.png",
+    "bbox": [
+      646,
+      3,
+      68,
+      75
+    ],
+    "instruction": "share this guide to someone",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_65c6ab58-5f56-4a53-a65d-5e88511bbe0f.png",
+    "bbox": [
+      720,
+      3,
+      56,
+      79
+    ],
+    "instruction": "search in macos user guide",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_65c6ab58-5f56-4a53-a65d-5e88511bbe0f.png",
+    "bbox": [
+      14,
+      539,
+      475,
+      68
+    ],
+    "instruction": "open bluetooth preferences for me",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_015a0262-924c-4ced-9f4d-23d07f94a657.png",
+    "bbox": [
+      179,
+      169,
+      596,
+      78
+    ],
+    "instruction": "hidden all shortcut",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_015a0262-924c-4ced-9f4d-23d07f94a657.png",
+    "bbox": [
+      180,
+      3,
+      92,
+      69
+    ],
+    "instruction": "open wechat",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
+    "bbox": [
+      995,
+      254,
+      222,
+      44
+    ],
+    "instruction": "turn wifi off",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
+    "bbox": [
+      37,
+      1092,
+      51,
+      47
+    ],
+    "instruction": "add a device",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_2773ea59-8493-4c89-957a-d2ec661e6384.png",
+    "bbox": [
+      88,
+      1091,
+      53,
+      51
+    ],
+    "instruction": "remove a network connected device",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_afcc8160-1ef9-4413-8d5e-b3aa88b2a879.png",
+    "bbox": [
+      531,
+      569,
+      516,
+      41
+    ],
+    "instruction": "select the interface in the bar",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_afcc8160-1ef9-4413-8d5e-b3aa88b2a879.png",
+    "bbox": [
+      905,
+      711,
+      147,
+      48
+    ],
+    "instruction": "create the new service",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_cc362e8f-6ef3-4273-9dfb-baeab56ad760.png",
+    "bbox": [
+      351,
+      457,
+      698,
+      99
+    ],
+    "instruction": "turn on low power mode",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_cc362e8f-6ef3-4273-9dfb-baeab56ad760.png",
+    "bbox": [
+      2,
+      532,
+      302,
+      71
+    ],
+    "instruction": "check battery usage history",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_f344a1f6-cbf8-4115-9c9b-a9dfd00fbfe7.png",
+    "bbox": [
+      444,
+      184,
+      437,
+      56
+    ],
+    "instruction": "show emoji & symbols",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_f344a1f6-cbf8-4115-9c9b-a9dfd00fbfe7.png",
+    "bbox": [
+      445,
+      360,
+      437,
+      61
+    ],
+    "instruction": "open keyboard preferences",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_cddf10f9-43a9-4cce-9b1b-df4aaf216f6d.png",
+    "bbox": [
+      36,
+      916,
+      56,
+      45
+    ],
+    "instruction": "add a new account",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_cddf10f9-43a9-4cce-9b1b-df4aaf216f6d.png",
+    "bbox": [
+      985,
+      22,
+      323,
+      58
+    ],
+    "instruction": "search for account",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_63f20c0b-0abc-4cd5-a3cb-2ea0cb2ba3c8.png",
+    "bbox": [
+      179,
+      455,
+      979,
+      42
+    ],
+    "instruction": "cancel the calculator",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_63f20c0b-0abc-4cd5-a3cb-2ea0cb2ba3c8.png",
+    "bbox": [
+      707,
+      245,
+      146,
+      46
+    ],
+    "instruction": "switch to privacy",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_514bf9d5-ca63-4d33-94cb-dc1b11994199.png",
+    "bbox": [
+      1024,
+      444,
+      212,
+      186
+    ],
+    "instruction": "switch to alerts mode",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_514bf9d5-ca63-4d33-94cb-dc1b11994199.png",
+    "bbox": [
+      585,
+      329,
+      96,
+      65
+    ],
+    "instruction": "disable \"allow notifications\" setting",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_ed2173e7-c929-4f52-9777-db36a36e0c3e.png",
+    "bbox": [
+      529,
+      267,
+      91,
+      72
+    ],
+    "instruction": "switch on do not disturb mode",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_b93bf9fd-afa5-40c0-b103-48f235f3ffe0.png",
+    "bbox": [
+      965,
+      226,
+      283,
+      47
+    ],
+    "instruction": "change user's password",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_b93bf9fd-afa5-40c0-b103-48f235f3ffe0.png",
+    "bbox": [
+      25,
+      887,
+      95,
+      92
+    ],
+    "instruction": "unlock to make changes",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_6ca110ef-dfac-49fe-a9eb-4ba4f621cbdc.png",
+    "bbox": [
+      1,
+      766,
+      396,
+      67
+    ],
+    "instruction": "check app limits",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_6ca110ef-dfac-49fe-a9eb-4ba4f621cbdc.png",
+    "bbox": [
+      1,
+      896,
+      395,
+      62
+    ],
+    "instruction": "view the always allowed apps",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_cb3fc7f0-9ed8-4692-8610-0f32b929a5a3.png",
+    "bbox": [
+      203,
+      400,
+      689,
+      56
+    ],
+    "instruction": "turn on \"user apple watch to unlock\"",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_cb3fc7f0-9ed8-4692-8610-0f32b929a5a3.png",
+    "bbox": [
+      675,
+      154,
+      139,
+      46
+    ],
+    "instruction": "view firewall",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_8c34d9b6-4f21-4cfa-a277-8a4fe45c9ef7.png",
+    "bbox": [
+      672,
+      149,
+      183,
+      50
+    ],
+    "instruction": "switch to time zone settings",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_35c339d2-810d-4bbe-93db-0c1db024638f.png",
+    "bbox": [
+      1827,
+      99,
+      251,
+      236
+    ],
+    "instruction": "open pycharm",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_35c339d2-810d-4bbe-93db-0c1db024638f.png",
+    "bbox": [
+      473,
+      701,
+      299,
+      286
+    ],
+    "instruction": "open anaconda",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_75eae2f4-193e-4365-a5f1-b9b5340d02ff.png",
+    "bbox": [
+      1284,
+      0,
+      90,
+      106
+    ],
+    "instruction": "delete this email",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_75eae2f4-193e-4365-a5f1-b9b5340d02ff.png",
+    "bbox": [
+      1667,
+      0,
+      82,
+      103
+    ],
+    "instruction": "forward email",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_1e16b18c-5d91-4155-9e49-4ad5d9453fc7.png",
+    "bbox": [
+      872,
+      0,
+      98,
+      106
+    ],
+    "instruction": "search in emails",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_1e16b18c-5d91-4155-9e49-4ad5d9453fc7.png",
+    "bbox": [
+      561,
+      693,
+      90,
+      52
+    ],
+    "instruction": "view attachment",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_63a274e4-38e1-4a50-a102-33b31aee3a62.png",
+    "bbox": [
+      1013,
+      19,
+      100,
+      72
+    ],
+    "instruction": "add images",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_63a274e4-38e1-4a50-a102-33b31aee3a62.png",
+    "bbox": [
+      1025,
+      106,
+      78,
+      56
+    ],
+    "instruction": "add a recipient",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_63a274e4-38e1-4a50-a102-33b31aee3a62.png",
+    "bbox": [
+      808,
+      19,
+      84,
+      72
+    ],
+    "instruction": "adjust font size",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_5392df82-37d6-41f3-838d-2afa1062dcc8.png",
+    "bbox": [
+      2,
+      917,
+      374,
+      63
+    ],
+    "instruction": "check junk emails",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_5392df82-37d6-41f3-838d-2afa1062dcc8.png",
+    "bbox": [
+      376,
+      103,
+      563,
+      157
+    ],
+    "instruction": "open the first email from researchgate",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_fe30b885-865a-442e-a8f5-0e9924f256fd.png",
+    "bbox": [
+      42,
+      567,
+      1183,
+      736
+    ],
+    "instruction": "open the image in memo",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_fe30b885-865a-442e-a8f5-0e9924f256fd.png",
+    "bbox": [
+      918,
+      9,
+      95,
+      81
+    ],
+    "instruction": "lock the memo",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_9237faf6-9f95-4157-9d0b-aafa67f7b675.png",
+    "bbox": [
+      1103,
+      87,
+      230,
+      58
+    ],
+    "instruction": "share throught airdrop",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_1d6fb8dc-8ba5-4c0d-a532-188e5d579686.png",
+    "bbox": [
+      18,
+      104,
+      405,
+      57
+    ],
+    "instruction": "search in app store",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_1d6fb8dc-8ba5-4c0d-a532-188e5d579686.png",
+    "bbox": [
+      1917,
+      877,
+      79,
+      143
+    ],
+    "instruction": "next page",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_6d0b3e39-872b-48ec-b894-0490106eb629.png",
+    "bbox": [
+      1880,
+      10,
+      81,
+      84
+    ],
+    "instruction": "share this page",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_6d0b3e39-872b-48ec-b894-0490106eb629.png",
+    "bbox": [
+      172,
+      15,
+      70,
+      75
+    ],
+    "instruction": "back to previous page",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_8be15b4a-65cc-4e89-94a2-3b6b571f41e2.png",
+    "bbox": [
+      1054,
+      211,
+      156,
+      81
+    ],
+    "instruction": "get the bear markdown notes app",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_8be15b4a-65cc-4e89-94a2-3b6b571f41e2.png",
+    "bbox": [
+      517,
+      323,
+      699,
+      143
+    ],
+    "instruction": "view the pixelmator app",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_4a9b8c51-5db6-4325-a6e0-8a0f9801e25d.png",
+    "bbox": [
+      504,
+      250,
+      459,
+      96
+    ],
+    "instruction": "open business categories",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_4a9b8c51-5db6-4325-a6e0-8a0f9801e25d.png",
+    "bbox": [
+      1795,
+      1229,
+      102,
+      99
+    ],
+    "instruction": "download fantastical from icloud",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_a2300b43-a1e0-4da9-aed4-3543b507d9a3.png",
+    "bbox": [
+      518,
+      231,
+      685,
+      641
+    ],
+    "instruction": "view the 2023 app store awards",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_01625ab1-9757-4dc4-8da0-a9c946d3b76a.png",
+    "bbox": [
+      355,
+      39,
+      60,
+      45
+    ],
+    "instruction": "back to previous folder",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_01625ab1-9757-4dc4-8da0-a9c946d3b76a.png",
+    "bbox": [
+      886,
+      175,
+      147,
+      209
+    ],
+    "instruction": "open d1_one",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_09fff6da-5dd8-4288-a0e7-f503273c1908.png",
+    "bbox": [
+      1411,
+      804,
+      152,
+      65
+    ],
+    "instruction": "open the file",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_09fff6da-5dd8-4288-a0e7-f503273c1908.png",
+    "bbox": [
+      354,
+      809,
+      241,
+      49
+    ],
+    "instruction": "create a new document",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_f01bc231-56c4-4aba-9dd4-fd6271be0f8e.png",
+    "bbox": [
+      475,
+      248,
+      247,
+      48
+    ],
+    "instruction": "show the files in list",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_bf63137d-d442-4bb9-a145-e07cb48abb64.png",
+    "bbox": [
+      307,
+      192,
+      226,
+      340
+    ],
+    "instruction": "open a blank document",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_bf63137d-d442-4bb9-a145-e07cb48abb64.png",
+    "bbox": [
+      29,
+      109,
+      118,
+      127
+    ],
+    "instruction": "my account",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_e73c6749-043f-4a24-8e56-6c829f78255d.png",
+    "bbox": [
+      513,
+      134,
+      63,
+      57
+    ],
+    "instruction": "enlarge font size",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_e73c6749-043f-4a24-8e56-6c829f78255d.png",
+    "bbox": [
+      438,
+      2,
+      61,
+      61
+    ],
+    "instruction": "save file",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_8fc1a1fb-00b9-4fe6-8fd3-4784ab2274e8.png",
+    "bbox": [
+      645,
+      127,
+      94,
+      133
+    ],
+    "instruction": "add a new pen",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_8fc1a1fb-00b9-4fe6-8fd3-4784ab2274e8.png",
+    "bbox": [
+      352,
+      133,
+      85,
+      111
+    ],
+    "instruction": "choose the red pen",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_0205fe68-a787-4651-8cfa-495802d6beb6.png",
+    "bbox": [
+      221,
+      131,
+      126,
+      120
+    ],
+    "instruction": "adjust orientation",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_0205fe68-a787-4651-8cfa-495802d6beb6.png",
+    "bbox": [
+      884,
+      175,
+      161,
+      44
+    ],
+    "instruction": "adjust the left indent",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_00b0c9f6-b24f-4bff-b492-12117b50e63b.png",
+    "bbox": [
+      95,
+      256,
+      107,
+      114
+    ],
+    "instruction": "insert a shape",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_00b0c9f6-b24f-4bff-b492-12117b50e63b.png",
+    "bbox": [
+      580,
+      258,
+      123,
+      112
+    ],
+    "instruction": "add a screenshot",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_3f805781-f2fe-45dc-8bc5-e62d12f1c359.png",
+    "bbox": [
+      879,
+      797,
+      212,
+      223
+    ],
+    "instruction": "add a sunburst chart",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_3f805781-f2fe-45dc-8bc5-e62d12f1c359.png",
+    "bbox": [
+      283,
+      0,
+      98,
+      61
+    ],
+    "instruction": "turn on auto save",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_41147eb1-3e27-4aa0-b9f9-71363b9be5c9.png",
+    "bbox": [
+      407,
+      771,
+      127,
+      41
+    ],
+    "instruction": "switch to 20 size font",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_41147eb1-3e27-4aa0-b9f9-71363b9be5c9.png",
+    "bbox": [
+      1554,
+      66,
+      142,
+      57
+    ],
+    "instruction": "share the word file",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_c2ffa4d3-4cf7-4813-986d-d741f1260c4c.png",
+    "bbox": [
+      205,
+      420,
+      812,
+      55
+    ],
+    "instruction": "choose ms pgothic for heading",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_c2ffa4d3-4cf7-4813-986d-d741f1260c4c.png",
+    "bbox": [
+      205,
+      1342,
+      814,
+      66
+    ],
+    "instruction": "choose apple chancery",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_71e8f8bd-7ff0-4846-ada6-ce337a0f5ebc.png",
+    "bbox": [
+      358,
+      65,
+      127,
+      61
+    ],
+    "instruction": "switch to design",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_9eebe928-6d8a-4de5-8212-039d0282b082.png",
+    "bbox": [
+      1316,
+      553,
+      69,
+      60
+    ],
+    "instruction": "rotate title box",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_b113f651-ec99-4a84-8c15-ff0fc1aee615.png",
+    "bbox": [
+      1197,
+      572,
+      901,
+      64
+    ],
+    "instruction": "bullets and numbering settings",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_38236247-66f3-4ad3-aeb0-bc4783335a46.png",
+    "bbox": [
+      393,
+      1087,
+      373,
+      61
+    ],
+    "instruction": "sign up for free",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_38236247-66f3-4ad3-aeb0-bc4783335a46.png",
+    "bbox": [
+      393,
+      1173,
+      378,
+      61
+    ],
+    "instruction": "sign in",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_18a939a5-8f77-4519-9c7a-d62b11e7b878.png",
+    "bbox": [
+      185,
+      253,
+      783,
+      84
+    ],
+    "instruction": "input the email address",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_ac718327-53b2-49c1-8707-d12220913fc1.png",
+    "bbox": [
+      1511,
+      55,
+      58,
+      58
+    ],
+    "instruction": "debug",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_45480159-6b1b-4528-9109-dab1905c62b7.png",
+    "bbox": [
+      520,
+      349,
+      184,
+      50
+    ],
+    "instruction": "check file colors",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_7656e3c5-00b1-4be7-9103-9890b837342f.png",
+    "bbox": [
+      0,
+      424,
+      467,
+      48
+    ],
+    "instruction": "check python interpreter",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_7656e3c5-00b1-4be7-9103-9890b837342f.png",
+    "bbox": [
+      0,
+      282,
+      467,
+      45
+    ],
+    "instruction": "view plugins",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_8c77197f-8be9-485a-bf32-989a8a66fbae.png",
+    "bbox": [
+      748,
+      158,
+      957,
+      51
+    ],
+    "instruction": "select python interpreter",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_8c77197f-8be9-485a-bf32-989a8a66fbae.png",
+    "bbox": [
+      509,
+      256,
+      50,
+      51
+    ],
+    "instruction": "add a new package",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_155db9b3-fe88-41cb-81d1-d51f37ba5970.png",
+    "bbox": [
+      519,
+      139,
+      400,
+      68
+    ],
+    "instruction": "cancel showing plots in tool windows",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_668258b4-f214-4a57-a500-d03aa94b0e65.png",
+    "bbox": [
+      38,
+      1009,
+      60,
+      49
+    ],
+    "instruction": "pause the debugger",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_668258b4-f214-4a57-a500-d03aa94b0e65.png",
+    "bbox": [
+      2192,
+      779,
+      66,
+      55
+    ],
+    "instruction": "minimize the debug panel",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_f656ce46-13af-4cd1-9126-f3c45a4e696c.png",
+    "bbox": [
+      78,
+      603,
+      1046,
+      36
+    ],
+    "instruction": "select the gzip file format",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_e9abfe29-8665-47e1-ba30-f79a0089278a.png",
+    "bbox": [
+      473,
+      190,
+      252,
+      52
+    ],
+    "instruction": "hide menu icon",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_e9abfe29-8665-47e1-ba30-f79a0089278a.png",
+    "bbox": [
+      685,
+      55,
+      111,
+      95
+    ],
+    "instruction": "switch to display",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_ec085abc-591d-4dcc-830c-defddc958f47.png",
+    "bbox": [
+      351,
+      571,
+      363,
+      44
+    ],
+    "instruction": "buy betterdisplay pro",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_c69e46cd-d2a9-4dbf-8d0a-4532b750a691.png",
+    "bbox": [
+      185,
+      1132,
+      122,
+      112
+    ],
+    "instruction": "start record",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_141ec1f5-ccf8-42f0-8b0b-8aba284ce81a.png",
+    "bbox": [
+      1381,
+      17,
+      86,
+      77
+    ],
+    "instruction": "search in activity monitor",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_141ec1f5-ccf8-42f0-8b0b-8aba284ce81a.png",
+    "bbox": [
+      1,
+      360,
+      1475,
+      51
+    ],
+    "instruction": "check the google chrome app",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_857c0a8b-5f0f-4d6a-966f-789b594622c9.png",
+    "bbox": [
+      555,
+      18,
+      79,
+      67
+    ],
+    "instruction": "terminate this process",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_857c0a8b-5f0f-4d6a-966f-789b594622c9.png",
+    "bbox": [
+      640,
+      17,
+      70,
+      70
+    ],
+    "instruction": "detail information",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_dc199113-7c34-4cc2-85cb-e9b552b87b05.png",
+    "bbox": [
+      1024,
+      20,
+      70,
+      69
+    ],
+    "instruction": "add a shortcut",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_dc199113-7c34-4cc2-85cb-e9b552b87b05.png",
+    "bbox": [
+      1,
+      100,
+      450,
+      64
+    ],
+    "instruction": "open gallery",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_2c2b6cbd-39cf-4bd2-80aa-d953890c21e5.png",
+    "bbox": [
+      1496,
+      204,
+      257,
+      44
+    ],
+    "instruction": "switch to apps",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_2c2b6cbd-39cf-4bd2-80aa-d953890c21e5.png",
+    "bbox": [
+      1254,
+      628,
+      491,
+      58
+    ],
+    "instruction": "add a send message action",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_64c386c3-9d87-4c91-b712-c1d9ab9216ae.png",
+    "bbox": [
+      1144,
+      16,
+      66,
+      71
+    ],
+    "instruction": "run the shortcut",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_64c386c3-9d87-4c91-b712-c1d9ab9216ae.png",
+    "bbox": [
+      1037,
+      13,
+      81,
+      79
+    ],
+    "instruction": "share the shortcut",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_b313a50d-ac5e-4189-beb9-3f5ceb67e536.png",
+    "bbox": [
+      501,
+      124,
+      212,
+      246
+    ],
+    "instruction": "open paper named flamingo",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_b313a50d-ac5e-4189-beb9-3f5ceb67e536.png",
+    "bbox": [
+      1426,
+      14,
+      80,
+      69
+    ],
+    "instruction": "search in files",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_97ce9c11-f20b-4294-982a-f01241c81576.png",
+    "bbox": [
+      746,
+      19,
+      62,
+      65
+    ],
+    "instruction": "enlarge the font",
+    "data_type": "icon",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_97ce9c11-f20b-4294-982a-f01241c81576.png",
+    "bbox": [
+      836,
+      19,
+      523,
+      66
+    ],
+    "instruction": "search in dictionary",
+    "data_type": "text",
+    "data_source": "macos"
+  },
+  {
+    "img_filename": "pc_1inyhi.png",
+    "bbox": [
+      12,
+      433,
+      67,
+      64
+    ],
+    "instruction": "open vscode",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_8g2jf6.png",
+    "bbox": [
+      797,
+      128,
+      50,
+      37
+    ],
+    "instruction": "adjust font color",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_b5q1tt.png",
+    "bbox": [1547, 358, 442, 45],
+    "instruction": "view battery usage of last 10 days",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_drcjo3.png",
+    "bbox": [
+      2691, 
+      1569, 
+      81, 
+      66
+    ],
+    "instruction": "download microsoft word from cloud",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_dyxzuj.png",
+    "bbox": [
+      1337,
+      275,
+      306,
+      48
+    ],
+    "instruction": "adjust mouse speed",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_dzpr8m.png",
+    "bbox": [
+      1475,
+      473,
+      96,
+      35
+    ],
+    "instruction": "empty the trash",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_f6eng1.png",
+    "bbox": [702, 857, 337, 335],
+    "instruction": "play dance pop station music",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_gtda7d.png",
+    "bbox": [2425, 403, 84, 79],
+    "instruction": "open google drive",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_j6tmln.png",
+    "bbox": [
+      906,
+      181,
+      109,
+      34
+    ],
+    "instruction": "install LXD app",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_js1st2.png",
+    "bbox":[2279, 397, 267, 31],
+    "instruction": "click to restart the computer",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_krzgko.png",
+    "bbox": [
+      2262,
+      78,
+      30,
+      28
+    ],
+    "instruction": "add current webpage to favourites",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_nuyjna.png",
+    "bbox": [
+      1554,
+      391,
+      48,
+      30
+    ],
+    "instruction": "Add a wired connection device",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_o4nd16.png",
+    "bbox": [707, 644, 189, 30],
+    "instruction": "select all folders",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_odcu20.png",
+    "bbox": [2207, 76, 647, 46],
+    "instruction": "search in this folder",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_oyo43s.png",
+    "bbox": [
+      927,
+      130,
+      40,
+      32
+    ],
+    "instruction": "center the selected text",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_p4xo8z.png",
+    "bbox": [
+      1132,
+      403,
+      592,
+      54
+    ],
+    "instruction": "add a new input method",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_pl3ry1.png",
+    "bbox": [2632, 143, 170, 59],
+    "instruction": "update all available apps",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_qao1zc.png",
+    "bbox": [
+      1610,
+      800,
+      163,
+      163
+    ],
+    "instruction": "open nac client ",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_rvnx5q.png",
+    "bbox": [1137, 355, 598, 58],
+    "instruction": "select a new time format",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_st4s1n.png",
+    "bbox": [
+      772,
+      755,
+      305,
+      75
+    ],
+    "instruction": "view get more help",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_suf989.png",
+    "bbox": [
+      996,
+      755,
+      211,
+      50
+    ],
+    "instruction": "do not save this file",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_u77zz1.png",
+    "bbox": [553, 1688, 88, 81],
+    "instruction": "open the map app",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_umvv32.png",
+    "bbox": [962, 740, 515, 33],
+    "instruction": "switch to NAT network connections",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_uuhwlx.png",
+    "bbox": [
+      1309,
+      526,
+      114,
+      132
+    ],
+    "instruction": "open the calculator",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_vcud9k.png",
+    "bbox": [269, 127, 113, 132],
+    "instruction": "insert a new slide",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_z7ydq8.png",
+    "bbox": [
+      1466,
+      644,
+      147,
+      136
+    ],
+    "instruction": "view more information about bomber",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_zuyj00.png",
+    "bbox": [1744, 281, 258, 53],
+    "instruction": "adjust the options of  \"show previous\"",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "pc_aaaaaa.png",
+    "bbox": [
+      701,
+      321,
+      417,
+      34
+    ],
+    "instruction": "enter my full name",
+    "data_type": "text",
+    "data_source": "shop"
+  }
+]

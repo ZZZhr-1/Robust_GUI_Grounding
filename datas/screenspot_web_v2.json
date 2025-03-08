@@ -1,0 +1,5246 @@
+[
+  {
+    "img_filename": "web_213f816e-8e80-4d13-970d-1347bbc7a2a8.png",
+    "bbox": [
+      2321,
+      129,
+      208,
+      70
+    ],
+    "instruction": "click the button to create a new project",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_213f816e-8e80-4d13-970d-1347bbc7a2a8.png",
+    "bbox": [
+      2401,
+      14,
+      111,
+      68
+    ],
+    "instruction": "view my account profile",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_e40f1b3f-0f26-4313-a6a2-d79e1047951b.png",
+    "bbox": [
+      194,
+      15,
+      645,
+      66
+    ],
+    "instruction": "search in gitlab",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_e40f1b3f-0f26-4313-a6a2-d79e1047951b.png",
+    "bbox": [
+      1762,
+      10,
+      87,
+      72
+    ],
+    "instruction": "add a new one",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_fd8d71f6-4229-4458-a77e-7d8a6347c8e9.png",
+    "bbox": [
+      2044,
+      96,
+      481,
+      187
+    ],
+    "instruction": "go to personal homepage",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_fd8d71f6-4229-4458-a77e-7d8a6347c8e9.png",
+    "bbox": [
+      2043,
+      492,
+      483,
+      89
+    ],
+    "instruction": "sign out",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_4e1d5837-4731-43f3-8101-52375498c4ad.png",
+    "bbox": [
+      427,
+      234,
+      150,
+      96
+    ],
+    "instruction": "switch to explore projects",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_4e1d5837-4731-43f3-8101-52375498c4ad.png",
+    "bbox": [
+      1601,
+      350,
+      116,
+      66
+    ],
+    "instruction": "star the project with 56 stars",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_4e1d5837-4731-43f3-8101-52375498c4ad.png",
+    "bbox": [
+      1704,
+      678,
+      83,
+      59
+    ],
+    "instruction": "fork the a11y project",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_bcce7aec-b36a-42c5-8beb-ead23f5ada2c.png",
+    "bbox": [
+      197,
+      232,
+      1279,
+      68
+    ],
+    "instruction": "view issues i've created",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_bcce7aec-b36a-42c5-8beb-ead23f5ada2c.png",
+    "bbox": [
+      0,
+      0,
+      107,
+      94
+    ],
+    "instruction": "goto homepage",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_7a5f6ad5-ec34-4693-ac45-136547757893.png",
+    "bbox": [
+      1883,
+      451,
+      119,
+      71
+    ],
+    "instruction": "set reminder",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_7a5f6ad5-ec34-4693-ac45-136547757893.png",
+    "bbox": [
+      2330,
+      959,
+      167,
+      70
+    ],
+    "instruction": "clone this project",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_e0f18fd6-2a59-4fab-89f0-864c70bba241.png",
+    "bbox": [
+      2344,
+      204,
+      190,
+      70
+    ],
+    "instruction": "create a new issue",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_e0f18fd6-2a59-4fab-89f0-864c70bba241.png",
+    "bbox": [
+      2018,
+      202,
+      111,
+      67
+    ],
+    "instruction": "download",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_e0f18fd6-2a59-4fab-89f0-864c70bba241.png",
+    "bbox": [
+      677,
+      319,
+      1481,
+      66
+    ],
+    "instruction": "search or filter results",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_6c677961-e540-4cc5-b725-5e301019a9f9.png",
+    "bbox": [
+      537,
+      606,
+      509,
+      77
+    ],
+    "instruction": "choose type of issue",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_6c677961-e540-4cc5-b725-5e301019a9f9.png",
+    "bbox": [
+      1566,
+      775,
+      74,
+      68
+    ],
+    "instruction": "bold lettering",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_6c677961-e540-4cc5-b725-5e301019a9f9.png",
+    "bbox": [
+      2429,
+      778,
+      74,
+      66
+    ],
+    "instruction": "full screen display",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_6c677961-e540-4cc5-b725-5e301019a9f9.png",
+    "bbox": [
+      2282,
+      775,
+      75,
+      68
+    ],
+    "instruction": "insert tables",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_6c677961-e540-4cc5-b725-5e301019a9f9.png",
+    "bbox": [
+      543,
+      853,
+      1986,
+      282
+    ],
+    "instruction": "write a description",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_9443f61f-7d14-4e60-8297-29df73b7cbdd.png",
+    "bbox": [
+      2430,
+      317,
+      67,
+      68
+    ],
+    "instruction": "click the icon to sort by created date",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_9443f61f-7d14-4e60-8297-29df73b7cbdd.png",
+    "bbox": [
+      543,
+      551,
+      1982,
+      133
+    ],
+    "instruction": "view the debug build time",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_af76d21a-0a23-49c3-bc5b-842073bf28af.png",
+    "bbox": [
+      610,
+      109,
+      610,
+      68
+    ],
+    "instruction": "search my projects",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_af76d21a-0a23-49c3-bc5b-842073bf28af.png",
+    "bbox": [
+      118,
+      502,
+      473,
+      79
+    ],
+    "instruction": "switch to activity",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_6b685114-53fc-40a1-ac42-3b8fbdd27fdd.png",
+    "bbox": [
+      782,
+      372,
+      64,
+      51
+    ],
+    "instruction": "delete the byte blaze assignee",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_6b685114-53fc-40a1-ac42-3b8fbdd27fdd.png",
+    "bbox": [
+      1764,
+      246,
+      377,
+      66
+    ],
+    "instruction": "subscribe to rss feed",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_b97bb6a3-999c-463a-b957-5584c14c8395.png",
+    "bbox": [
+      542,
+      700,
+      107,
+      67
+    ],
+    "instruction": "Click the thumbs up icon on this issue",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_b97bb6a3-999c-463a-b957-5584c14c8395.png",
+    "bbox": [
+      662,
+      702,
+      109,
+      64
+    ],
+    "instruction": "Click the thumbs down icon on this issue",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_b97bb6a3-999c-463a-b957-5584c14c8395.png",
+    "bbox": [
+      785,
+      700,
+      67,
+      68
+    ],
+    "instruction": "reply to emoticon",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_b97bb6a3-999c-463a-b957-5584c14c8395.png",
+    "bbox": [
+      1875,
+      204,
+      79,
+      78
+    ],
+    "instruction": "click to view more information of this issue",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_5a35d9c2-2c2d-4a49-ad0a-1408d9cac78e.png",
+    "bbox": [
+      801,
+      1139,
+      196,
+      68
+    ],
+    "instruction": "close this issue",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_5a35d9c2-2c2d-4a49-ad0a-1408d9cac78e.png",
+    "bbox": [
+      2020,
+      118,
+      183,
+      46
+    ],
+    "instruction": "add a todo",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_e640514e-5946-4808-922f-f50c51b0da78.png",
+    "bbox": [
+      2371,
+      124,
+      66,
+      66
+    ],
+    "instruction": "edit my profile",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_e640514e-5946-4808-922f-f50c51b0da78.png",
+    "bbox": [
+      1072,
+      760,
+      220,
+      72
+    ],
+    "instruction": "check my followers",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_e640514e-5946-4808-922f-f50c51b0da78.png",
+    "bbox": [
+      697,
+      964,
+      141,
+      92
+    ],
+    "instruction": "switch to groups view",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_8d623438-5ac7-44f8-ab67-e07309a92f4a.png",
+    "bbox": [
+      2407,
+      119,
+      139,
+      78
+    ],
+    "instruction": "view all personal projects",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_8d623438-5ac7-44f8-ab67-e07309a92f4a.png",
+    "bbox": [
+      1306,
+      650,
+      1254,
+      148
+    ],
+    "instruction": "view the chatgpt_plugin project",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_c8e2a933-b6e5-4046-a360-5dbd54dc9753.png",
+    "bbox": [
+      2467,
+      123,
+      71,
+      72
+    ],
+    "instruction": "close the window",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_0492a7c3-3b0d-4f62-8c0d-939ad51aa616.png",
+    "bbox": [
+      107,
+      864,
+      291,
+      57
+    ],
+    "instruction": "visit docs.gitlab.com",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_0492a7c3-3b0d-4f62-8c0d-939ad51aa616.png",
+    "bbox": [
+      31,
+      1232,
+      769,
+      123
+    ],
+    "instruction": "check the docs of how to use gitlab",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_1cc05cca-502a-41c3-aebc-b901f85a40fd.png",
+    "bbox": [
+      145,
+      21,
+      243,
+      155
+    ],
+    "instruction": "switch to why gitlab doc",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_1cc05cca-502a-41c3-aebc-b901f85a40fd.png",
+    "bbox": [
+      778,
+      21,
+      165,
+      157
+    ],
+    "instruction": "check pricing",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_1cc05cca-502a-41c3-aebc-b901f85a40fd.png",
+    "bbox": [
+      2360,
+      36,
+      167,
+      133
+    ],
+    "instruction": "sign in",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_1cc05cca-502a-41c3-aebc-b901f85a40fd.png",
+    "bbox": [
+      1585,
+      19,
+      72,
+      163
+    ],
+    "instruction": "click the search button ",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_200e430d-ec76-48af-987c-ad658b74ab33.png",
+    "bbox": [
+      598,
+      276,
+      561,
+      88
+    ],
+    "instruction": "view solution of ai",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_200e430d-ec76-48af-987c-ad658b74ab33.png",
+    "bbox": [
+      606,
+      957,
+      418,
+      101
+    ],
+    "instruction": "view all solutions",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_201fbfed-1dd7-4532-b49a-b465ef775c8b.png",
+    "bbox": [
+      944,
+      26,
+      227,
+      133
+    ],
+    "instruction": "check the resources",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_201fbfed-1dd7-4532-b49a-b465ef775c8b.png",
+    "bbox": [
+      976,
+      1183,
+      425,
+      94
+    ],
+    "instruction": "Purchase GitLab Premium service",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_a905f71b-cfe3-4add-b37e-fa2a96067b8c.png",
+    "bbox": [
+      2065,
+      34,
+      268,
+      134
+    ],
+    "instruction": "get free trial",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_a905f71b-cfe3-4add-b37e-fa2a96067b8c.png",
+    "bbox": [
+      1307,
+      981,
+      403,
+      120
+    ],
+    "instruction": "contact sales",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_32fce6b7-8437-4877-8436-f67c99d82f81.png",
+    "bbox": [
+      1934,
+      595,
+      483,
+      93
+    ],
+    "instruction": "view supported cloud",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_32fce6b7-8437-4877-8436-f67c99d82f81.png",
+    "bbox": [
+      1387,
+      148,
+      206,
+      112
+    ],
+    "instruction": "contact gitlab",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_37acd27f-731c-4292-8caf-159b9be41189.png",
+    "bbox": [
+      86,
+      306,
+      469,
+      692
+    ],
+    "instruction": "install for ubuntu",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_37acd27f-731c-4292-8caf-159b9be41189.png",
+    "bbox": [
+      1938,
+      805,
+      332,
+      97
+    ],
+    "instruction": "check whether installed gitlab",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_90c0cf0e-3885-46d1-a1fd-2b29645398d3.png",
+    "bbox": [
+      1666,
+      243,
+      751,
+      799
+    ],
+    "instruction": "view efficiency",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_90c0cf0e-3885-46d1-a1fd-2b29645398d3.png",
+    "bbox": [
+      1668,
+      1075,
+      748,
+      365
+    ],
+    "instruction": "view transparency",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_94a52247-8dd4-4f19-82ea-19185a9b2649.png",
+    "bbox": [
+      696,
+      1030,
+      280,
+      72
+    ],
+    "instruction": "check api security",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_94a52247-8dd4-4f19-82ea-19185a9b2649.png",
+    "bbox": [
+      2202,
+      219,
+      201,
+      160
+    ],
+    "instruction": "switch to govern",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_94a52247-8dd4-4f19-82ea-19185a9b2649.png",
+    "bbox": [
+      444,
+      213,
+      205,
+      167
+    ],
+    "instruction": "switch to create",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_d48576d2-c431-4030-9cc0-c811c752c3a8.png",
+    "bbox": [
+      109,
+      1037,
+      537,
+      97
+    ],
+    "instruction": "select a use-case",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_463c0536-492e-475c-930d-d95ee476ec3c.png",
+    "bbox": [
+      654,
+      634,
+      55,
+      45
+    ],
+    "instruction": "switch to private visibility level",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_463c0536-492e-475c-930d-d95ee476ec3c.png",
+    "bbox": [
+      662,
+      1106,
+      48,
+      51
+    ],
+    "instruction": "enable static application security testing",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_6466b8cc-deea-451a-8019-d0684052d771.png",
+    "bbox": [
+      2412,
+      1113,
+      112,
+      62
+    ],
+    "instruction": "enable notifications",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_6466b8cc-deea-451a-8019-d0684052d771.png",
+    "bbox": [
+      1731,
+      1045,
+      71,
+      53
+    ],
+    "instruction": "comment to administrator",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_4befbc37-411b-4621-8a3c-c1d95676efa1.png",
+    "bbox": [
+      2203,
+      659,
+      111,
+      66
+    ],
+    "instruction": "download the project",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_4befbc37-411b-4621-8a3c-c1d95676efa1.png",
+    "bbox": [
+      2028,
+      150,
+      235,
+      68
+    ],
+    "instruction": "unstar the project",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_4befbc37-411b-4621-8a3c-c1d95676efa1.png",
+    "bbox": [
+      578,
+      1105,
+      1913,
+      86
+    ],
+    "instruction": "jump to data folder",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_586be1bf-6fab-43bf-adad-640eaab4a0df.png",
+    "bbox": [
+      2403,
+      644,
+      63,
+      67
+    ],
+    "instruction": "copy the ssh link",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_586be1bf-6fab-43bf-adad-640eaab4a0df.png",
+    "bbox": [
+      2400,
+      785,
+      66,
+      70
+    ],
+    "instruction": "copy the http link",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_3eca74aa-1d45-45a3-ae2b-694ae83b0068.png",
+    "bbox": [
+      1660,
+      526,
+      332,
+      72
+    ],
+    "instruction": "open the file in web ide",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_48737870-2f75-4199-a2d0-176d04543b2b.png",
+    "bbox": [
+      412,
+      937,
+      170,
+      63
+    ],
+    "instruction": "check the owner of coding_friends",
+    "data_type": "text",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_6b9059c2-656d-4a37-b585-9df4ef2f0c7f.png",
+    "bbox": [
+      1871,
+      495,
+      115,
+      79
+    ],
+    "instruction": "star the chatgpt project",
+    "data_type": "icon",
+    "data_source": "gitlab"
+  },
+  {
+    "img_filename": "web_7d1b09cc-3602-4670-9fb2-d81afb5ec381.png",
+    "bbox": [
+      2068,
+      142,
+      92,
+      90
+    ],
+    "instruction": "click to search in this page",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_7d1b09cc-3602-4670-9fb2-d81afb5ec381.png",
+    "bbox": [
+      2173,
+      141,
+      89,
+      94
+    ],
+    "instruction": "check notification",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_7d1b09cc-3602-4670-9fb2-d81afb5ec381.png",
+    "bbox": [
+      632,
+      315,
+      94,
+      94
+    ],
+    "instruction": "has question about scope",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_d0e6082c-90d2-4637-ab9f-65b768240848.png",
+    "bbox": [
+      174,
+      185,
+      537,
+      86
+    ],
+    "instruction": "view orders",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_d0e6082c-90d2-4637-ab9f-65b768240848.png",
+    "bbox": [
+      592,
+      27,
+      79,
+      75
+    ],
+    "instruction": "close the sales window",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_921e2d81-b8a5-425a-81e6-476cd16f9bdb.png",
+    "bbox": [
+      172,
+      186,
+      535,
+      86
+    ],
+    "instruction": "view detail of products",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_921e2d81-b8a5-425a-81e6-476cd16f9bdb.png",
+    "bbox": [
+      1,
+      522,
+      174,
+      124
+    ],
+    "instruction": "switch to customers",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_d2dd06b0-8826-4dd6-a3b7-0d88c123a04b.png",
+    "bbox": [
+      230,
+      498,
+      799,
+      71
+    ],
+    "instruction": "search by keyword",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_d2dd06b0-8826-4dd6-a3b7-0d88c123a04b.png",
+    "bbox": [
+      1679,
+      607,
+      178,
+      71
+    ],
+    "instruction": "adjusting the number of items displayed per page",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_ddeabd10-ccfc-4881-b301-9364d7a04279.png",
+    "bbox": [
+      2281,
+      321,
+      168,
+      82
+    ],
+    "instruction": "go back",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_ddeabd10-ccfc-4881-b301-9364d7a04279.png",
+    "bbox": [
+      2291,
+      149,
+      196,
+      79
+    ],
+    "instruction": "view my account profile",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_de7dcaf3-f2e3-49f4-84fd-36088f39238c.png",
+    "bbox": [
+      234,
+      889,
+      107,
+      82
+    ],
+    "instruction": "select the data item named div garg",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_de7dcaf3-f2e3-49f4-84fd-36088f39238c.png",
+    "bbox": [
+      1454,
+      499,
+      202,
+      68
+    ],
+    "instruction": "use filters",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_2b491da3-f798-4866-b002-a25ab7d15263.png",
+    "bbox": [
+      1834,
+      870,
+      209,
+      70
+    ],
+    "instruction": "view privacy policy",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_d1cc72e3-da3f-4d48-bab4-a6aa0bc5a807.png",
+    "bbox": [
+      384,
+      1027,
+      261,
+      77
+    ],
+    "instruction": "view more partners",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_d1cc72e3-da3f-4d48-bab4-a6aa0bc5a807.png",
+    "bbox": [
+      1781,
+      944,
+      439,
+      70
+    ],
+    "instruction": "visit magento marketplaces",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_10e24c0f-e9af-4542-b074-5a14a7645717.png",
+    "bbox": [
+      743,
+      272,
+      502,
+      92
+    ],
+    "instruction": "view all users",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_dd867d69-511e-4ab2-834e-2e111c7b3198.png",
+    "bbox": [
+      402,
+      496,
+      187,
+      75
+    ],
+    "instruction": "reset fliter",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_dd867d69-511e-4ab2-834e-2e111c7b3198.png",
+    "bbox": [
+      2408,
+      585,
+      90,
+      71
+    ],
+    "instruction": "go to next page",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_dd867d69-511e-4ab2-834e-2e111c7b3198.png",
+    "bbox": [
+      417,
+      862,
+      353,
+      57
+    ],
+    "instruction": "enter search query",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_d3f48983-3396-4249-990c-d1214fbed944.png",
+    "bbox": [
+      33,
+      1186,
+      231,
+      72
+    ],
+    "instruction": "add the first product into cart",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_d3f48983-3396-4249-990c-d1214fbed944.png",
+    "bbox": [
+      777,
+      1231,
+      53,
+      64
+    ],
+    "instruction": "favorite the blueberry drink",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_55e57d6e-0cb0-4024-b89f-89a3c594f20e.png",
+    "bbox": [
+      766,
+      256,
+      424,
+      104
+    ],
+    "instruction": "view clothing, shoes and jewelry",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_55e57d6e-0cb0-4024-b89f-89a3c594f20e.png",
+    "bbox": [
+      1440,
+      362,
+      249,
+      103
+    ],
+    "instruction": "view vedio games",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_a8de66ff-c058-4617-9484-82662d95fbc1.png",
+    "bbox": [
+      2396,
+      131,
+      142,
+      79
+    ],
+    "instruction": "check shopping cart",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_a8de66ff-c058-4617-9484-82662d95fbc1.png",
+    "bbox": [
+      1526,
+      3,
+      185,
+      78
+    ],
+    "instruction": "check my account",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_f4ee1ae3-a244-40f8-90cb-e68411f00636.png",
+    "bbox": [
+      1826,
+      388,
+      661,
+      104
+    ],
+    "instruction": "checkout",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_f4ee1ae3-a244-40f8-90cb-e68411f00636.png",
+    "bbox": [
+      2471,
+      222,
+      71,
+      64
+    ],
+    "instruction": "close the cart",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_f4ee1ae3-a244-40f8-90cb-e68411f00636.png",
+    "bbox": [
+      2448,
+      700,
+      75,
+      92
+    ],
+    "instruction": "delete carnation breakfast essentials nutritional drink in cart",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_f4ee1ae3-a244-40f8-90cb-e68411f00636.png",
+    "bbox": [
+      2036,
+      707,
+      92,
+      67
+    ],
+    "instruction": "adjust the item quantity with 5",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_d00882a8-4d93-4116-91ad-e8bb8fdd8ff2.png",
+    "bbox": [
+      618,
+      903,
+      330,
+      79
+    ],
+    "instruction": "change password",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_d00882a8-4d93-4116-91ad-e8bb8fdd8ff2.png",
+    "bbox": [
+      38,
+      676,
+      502,
+      72
+    ],
+    "instruction": "check my downloadable products",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_9043e264-b5ec-4da5-ae7a-b19cfc1d178b.png",
+    "bbox": [
+      1633,
+      684,
+      81,
+      72
+    ],
+    "instruction": "go to next page",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_9043e264-b5ec-4da5-ae7a-b19cfc1d178b.png",
+    "bbox": [
+      2266,
+      684,
+      120,
+      67
+    ],
+    "instruction": "adjust the number of items shown per page",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_f80a102f-7b1a-40f4-ad52-193e52d0cda0.png",
+    "bbox": [
+      1112,
+      1198,
+      224,
+      67
+    ],
+    "instruction": "add the rh interiors weathered wood bundle table lamp to cart",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_f80a102f-7b1a-40f4-ad52-193e52d0cda0.png",
+    "bbox": [
+      1571,
+      1141,
+      457,
+      82
+    ],
+    "instruction": "comment to elmwood inn fine tea",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_589e44b7-401b-45f7-a223-b93ac59c5506.png",
+    "bbox": [
+      1439,
+      686,
+      464,
+      70
+    ],
+    "instruction": "view ps4",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_db995728-d16b-46cb-9621-22e8d8e5596f.png",
+    "bbox": [
+      1525,
+      1302,
+      230,
+      51
+    ],
+    "instruction": "add the first product to wish list",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_2595ae32-9df7-4198-a48e-6c291a1fb01c.png",
+    "bbox": [
+      60,
+      341,
+      130,
+      160
+    ],
+    "instruction": "view previous images",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_c576ac89-3f3e-4f4d-9efd-1ad4b959a630.png",
+    "bbox": [
+      1864,
+      991,
+      450,
+      68
+    ],
+    "instruction": "enter email address",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_a4d22512-1c68-4fda-9b49-d207326365ce.png",
+    "bbox": [
+      14,
+      570,
+      252,
+      78
+    ],
+    "instruction": "print the page",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_a4d22512-1c68-4fda-9b49-d207326365ce.png",
+    "bbox": [
+      2423,
+      622,
+      82,
+      53
+    ],
+    "instruction": "close current page of item",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_844d70be-3743-409c-abf0-a148975fdbc8.png",
+    "bbox": [
+      518,
+      769,
+      186,
+      79
+    ],
+    "instruction": "adjusting the display layout of items",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_844d70be-3743-409c-abf0-a148975fdbc8.png",
+    "bbox": [
+      2434,
+      775,
+      70,
+      66
+    ],
+    "instruction": "sort from largest to smallest",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_e891e448-0f8e-4673-9122-405a48cabad3.png",
+    "bbox": [
+      712,
+      1231,
+      78,
+      70
+    ],
+    "instruction": "next page",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_e891e448-0f8e-4673-9122-405a48cabad3.png",
+    "bbox": [
+      648,
+      1225,
+      46,
+      78
+    ],
+    "instruction": "page 5",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_a6e78bca-0f72-405b-8bda-7c0edc617b4e.png",
+    "bbox": [
+      2364,
+      444,
+      146,
+      101
+    ],
+    "instruction": "details about dead sea collection salt",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_60786716-b5ae-47f4-bd46-c5f9a0e87293.png",
+    "bbox": [
+      347,
+      888,
+      904,
+      71
+    ],
+    "instruction": "enter email address",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_60786716-b5ae-47f4-bd46-c5f9a0e87293.png",
+    "bbox": [
+      1305,
+      919,
+      325,
+      79
+    ],
+    "instruction": "create an account",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_bb6f684d-6060-478d-aceb-d0b77c23a68b.png",
+    "bbox": [
+      353,
+      926,
+      343,
+      75
+    ],
+    "instruction": "reset the password",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_bb6f684d-6060-478d-aceb-d0b77c23a68b.png",
+    "bbox": [
+      11,
+      124,
+      470,
+      109
+    ],
+    "instruction": "go to onestop market homepage",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_b2d92416-5c93-4a09-8304-44b8d166a7c7.png",
+    "bbox": [
+      857,
+      918,
+      83,
+      81
+    ],
+    "instruction": "question for remote shopping assistance",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_3acb3026-cbd7-4e41-8fb7-2b8a2e7e4fcb.png",
+    "bbox": [
+      2381,
+      1052,
+      86,
+      77
+    ],
+    "instruction": "view settings of cocowhip light",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_39126cee-4462-4567-9fa4-5ad1f3589047.png",
+    "bbox": [
+      224,
+      837,
+      250,
+      64
+    ],
+    "instruction": "show reviews",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_0c5f692d-4c32-4533-ac2a-d6f8d7c6d7c1.png",
+    "bbox": [
+      1037,
+      1005,
+      230,
+      68
+    ],
+    "instruction": "add the sandals to cart",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_f8c6a82c-5e0e-4067-a560-06e9615e65fe.png",
+    "bbox": [
+      1506,
+      922,
+      127,
+      62
+    ],
+    "instruction": "choose size 14",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_f8c6a82c-5e0e-4067-a560-06e9615e65fe.png",
+    "bbox": [
+      1523,
+      1306,
+      108,
+      105
+    ],
+    "instruction": "adjust the quantity of the first product",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_96671728-050c-4e62-bdb8-5bd68b603de0.png",
+    "bbox": [
+      354,
+      1127,
+      413,
+      62
+    ],
+    "instruction": "enter lowest price",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_96671728-050c-4e62-bdb8-5bd68b603de0.png",
+    "bbox": [
+      354,
+      637,
+      927,
+      63
+    ],
+    "instruction": "enter product name",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_70a307b8-62fb-4d66-921a-7c4445af3e65.png",
+    "bbox": [
+      341,
+      927,
+      275,
+      52
+    ],
+    "instruction": "switch on \"show password\"",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_b645cb4e-48f2-4f75-8503-3da18f2e9b79.png",
+    "bbox": [
+      955,
+      11,
+      383,
+      78
+    ],
+    "instruction": "search in the forum",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_b645cb4e-48f2-4f75-8503-3da18f2e9b79.png",
+    "bbox": [
+      1928,
+      11,
+      405,
+      77
+    ],
+    "instruction": "check my account",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_8be1be42-6037-4cba-a78a-065e7a7d77ae.png",
+    "bbox": [
+      1612,
+      16,
+      85,
+      71
+    ],
+    "instruction": "check my postbox",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_8be1be42-6037-4cba-a78a-065e7a7d77ae.png",
+    "bbox": [
+      1729,
+      18,
+      161,
+      70
+    ],
+    "instruction": "submit a new post",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_fd8befe1-4e5b-4de2-9978-db25d2be2173.png",
+    "bbox": [
+      206,
+      754,
+      1120,
+      283
+    ],
+    "instruction": "add comment",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_fd8befe1-4e5b-4de2-9978-db25d2be2173.png",
+    "bbox": [
+      202,
+      155,
+      66,
+      63
+    ],
+    "instruction": "back to previous page",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_587b0743-0e7a-4291-811b-4d6fb5510fb3.png",
+    "bbox": [
+      94,
+      1310,
+      135,
+      86
+    ],
+    "instruction": "post the comment",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_587b0743-0e7a-4291-811b-4d6fb5510fb3.png",
+    "bbox": [
+      1901,
+      495,
+      241,
+      90
+    ],
+    "instruction": "unsubscribe the book ",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_89d60b8b-3f6d-4160-93d4-1791d4899455.png",
+    "bbox": [
+      122,
+      351,
+      56,
+      45
+    ],
+    "instruction": "unsupport the book",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_89d60b8b-3f6d-4160-93d4-1791d4899455.png",
+    "bbox": [
+      304,
+      15,
+      181,
+      82
+    ],
+    "instruction": "check the forums",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_d146e5c3-e1ea-446c-ab84-a348fe07a1b8.png",
+    "bbox": [
+      181,
+      390,
+      1559,
+      139
+    ],
+    "instruction": "check details of the first book",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_d146e5c3-e1ea-446c-ab84-a348fe07a1b8.png",
+    "bbox": [
+      320,
+      294,
+      198,
+      78
+    ],
+    "instruction": "check the all comments",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_d146e5c3-e1ea-446c-ab84-a348fe07a1b8.png",
+    "bbox": [
+      547,
+      297,
+      163,
+      75
+    ],
+    "instruction": "change the sorting method",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_843805d1-f33a-400f-bcdd-901a9ae91329.png",
+    "bbox": [
+      550,
+      529,
+      302,
+      68
+    ],
+    "instruction": "sort based on active",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_843805d1-f33a-400f-bcdd-901a9ae91329.png",
+    "bbox": [
+      551,
+      756,
+      305,
+      78
+    ],
+    "instruction": "sort based on most commented",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_aa8f1636-1c5c-4a79-b8d9-f92956ba78e9.png",
+    "bbox": [
+      122,
+      591,
+      57,
+      49
+    ],
+    "instruction": "support the second book",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_aa8f1636-1c5c-4a79-b8d9-f92956ba78e9.png",
+    "bbox": [
+      185,
+      960,
+      785,
+      148
+    ],
+    "instruction": "view the information of book lover or not?",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_4af68da5-d7bb-4910-b434-1301097cda1f.png",
+    "bbox": [
+      2075,
+      652,
+      239,
+      86
+    ],
+    "instruction": "subscribe the second book",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_a43882ed-3d5d-40c3-b077-a256acf058ec.png",
+    "bbox": [
+      183,
+      572,
+      187,
+      48
+    ],
+    "instruction": "view the comments of the first book",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_ab471260-bba4-4f1a-a34b-2391c3c88674.png",
+    "bbox": [
+      382,
+      592,
+      93,
+      53
+    ],
+    "instruction": "replay the comment with 82 upvotes",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_ab471260-bba4-4f1a-a34b-2391c3c88674.png",
+    "bbox": [
+      1705,
+      1004,
+      96,
+      44
+    ],
+    "instruction": "hide the no.140 comment",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_0481a1db-93fd-4d1e-9146-15526e37eacd.png",
+    "bbox": [
+      46,
+      661,
+      119,
+      59
+    ],
+    "instruction": "check the profile of user knittedjedi",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_5766e094-3b76-4b5f-8399-e47ff5506df2.png",
+    "bbox": [
+      97,
+      341,
+      1236,
+      85
+    ],
+    "instruction": "input the forum name",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_5766e094-3b76-4b5f-8399-e47ff5506df2.png",
+    "bbox": [
+      100,
+      501,
+      1232,
+      82
+    ],
+    "instruction": "input the title",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_5766e094-3b76-4b5f-8399-e47ff5506df2.png",
+    "bbox": [
+      324,
+      1351,
+      222,
+      49
+    ],
+    "instruction": "view formatting help",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_f9bf7ee5-1966-4261-bf9e-76202c196a55.png",
+    "bbox": [
+      97,
+      1004,
+      1234,
+      129
+    ],
+    "instruction": "choose tag",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_f9bf7ee5-1966-4261-bf9e-76202c196a55.png",
+    "bbox": [
+      97,
+      1216,
+      252,
+      85
+    ],
+    "instruction": "create the forum",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_f680f8e6-e068-4ca9-9be6-2f78c2899e0a.png",
+    "bbox": [
+      98,
+      782,
+      1234,
+      499
+    ],
+    "instruction": "input the body of the submission",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_f680f8e6-e068-4ca9-9be6-2f78c2899e0a.png",
+    "bbox": [
+      204,
+      306,
+      129,
+      57
+    ],
+    "instruction": "upload a image for the submission",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_f680f8e6-e068-4ca9-9be6-2f78c2899e0a.png",
+    "bbox": [
+      96,
+      373,
+      1236,
+      82
+    ],
+    "instruction": "input an url",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_13e31182-318c-43d9-9378-a69da2dc1b01.png",
+    "bbox": [
+      97,
+      756,
+      356,
+      68
+    ],
+    "instruction": "choose the forum of askreddit",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_d45c0bb4-1ed8-494e-b099-2063efb1d729.png",
+    "bbox": [
+      2177,
+      435,
+      280,
+      89
+    ],
+    "instruction": "switch to dark mode",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_d45c0bb4-1ed8-494e-b099-2063efb1d729.png",
+    "bbox": [
+      2176,
+      114,
+      282,
+      71
+    ],
+    "instruction": "check my profile",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_48f086db-edfd-43d3-95b8-b2eee50367da.png",
+    "bbox": [
+      269,
+      172,
+      223,
+      75
+    ],
+    "instruction": "check the submissions",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "bbox": [
+      438,
+      829,
+      44,
+      44
+    ],
+    "instruction": "toggle the open external links in the new tab option",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "bbox": [
+      435,
+      905,
+      46,
+      45
+    ],
+    "instruction": "disable show thumbnails option",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "bbox": [
+      438,
+      1131,
+      44,
+      45
+    ],
+    "instruction": "don't show post previews",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "bbox": [
+      440,
+      368,
+      402,
+      86
+    ],
+    "instruction": "switch the language",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_6c4e07ff-3589-4a78-99cf-fcf703a33a74.png",
+    "bbox": [
+      439,
+      481,
+      563,
+      81
+    ],
+    "instruction": "change the time zone",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_acad6928-ac22-40c7-98df-4e0df7b318bc.png",
+    "bbox": [
+      1794,
+      156,
+      70,
+      68
+    ],
+    "instruction": "close the sign in box",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_516f6429-4157-45f8-93a4-db1d525cedb9.png",
+    "bbox": [
+      1351,
+      639,
+      172,
+      93
+    ],
+    "instruction": "follow the post",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_516f6429-4157-45f8-93a4-db1d525cedb9.png",
+    "bbox": [
+      748,
+      851,
+      46,
+      45
+    ],
+    "instruction": "close the message box",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_2f3df3a1-d287-4457-91b3-a672d0f72f84.png",
+    "bbox": [
+      185,
+      449,
+      63,
+      60
+    ],
+    "instruction": "share with facebook",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_2f3df3a1-d287-4457-91b3-a672d0f72f84.png",
+    "bbox": [
+      185,
+      551,
+      63,
+      63
+    ],
+    "instruction": "share to twitter/x",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_659de266-0af1-47bc-a2dc-5edc4dbb29d8.png",
+    "bbox": [
+      2429,
+      19,
+      83,
+      74
+    ],
+    "instruction": "search in the website",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_6f420f7d-e710-428d-99fa-9606adb5f509.png",
+    "bbox": [
+      12,
+      16,
+      93,
+      77
+    ],
+    "instruction": "open the menu",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_6f420f7d-e710-428d-99fa-9606adb5f509.png",
+    "bbox": [
+      1753,
+      12,
+      472,
+      85
+    ],
+    "instruction": "subscribe the website",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_ff1666cb-81cb-4180-94ee-661a111749e4.png",
+    "bbox": [
+      1295,
+      509,
+      1065,
+      120
+    ],
+    "instruction": "check the letters",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_ff1666cb-81cb-4180-94ee-661a111749e4.png",
+    "bbox": [
+      1292,
+      904,
+      1071,
+      146
+    ],
+    "instruction": "check the index",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_e22bd6de-3985-4ccc-a316-eb383a03475f.png",
+    "bbox": [
+      16,
+      21,
+      92,
+      83
+    ],
+    "instruction": "open the menu",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_4e4113f0-12bd-4b49-84c4-88a5bbf7924b.png",
+    "bbox": [
+      651,
+      112,
+      223,
+      86
+    ],
+    "instruction": "check the books on culture",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_4e4113f0-12bd-4b49-84c4-88a5bbf7924b.png",
+    "bbox": [
+      898,
+      112,
+      217,
+      88
+    ],
+    "instruction": "check the books on true crime",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_44f9b58e-0964-4a89-bdb0-18e60f6eb07f.png",
+    "bbox": [
+      1805,
+      0,
+      246,
+      96
+    ],
+    "instruction": "go to book marks",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_e22bd6de-3985-4ccc-a316-eb383a03475f.png",
+    "bbox": [
+      16,
+      21,
+      92,
+      83
+    ],
+    "instruction": "open the menu",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_22f4dba1-1fb0-46f0-b7b5-4dfdf35de24a.png",
+    "bbox": [
+      550,
+      94,
+      454,
+      79
+    ],
+    "instruction": "check the books on tv & film",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_28c3aef4-8c82-4746-8cfa-3aa747127c97.png",
+    "bbox": [
+      435,
+      409,
+      164,
+      82
+    ],
+    "instruction": "search with the current search query",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_28c3aef4-8c82-4746-8cfa-3aa747127c97.png",
+    "bbox": [
+      193,
+      1084,
+      2252,
+      213
+    ],
+    "instruction": "check the third result",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_4bf90a3b-dcde-4d16-ba02-470eb8976199.png",
+    "bbox": [
+      201,
+      416,
+      1141,
+      693
+    ],
+    "instruction": "check the shown image",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_626e849e-afe2-47c7-8e67-da7331497c25.png",
+    "bbox": [
+      2176,
+      528,
+      284,
+      78
+    ],
+    "instruction": "log out my account",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_626e849e-afe2-47c7-8e67-da7331497c25.png",
+    "bbox": [
+      1262,
+      295,
+      67,
+      83
+    ],
+    "instruction": "delete the entered search query",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_9618f323-7310-4d6e-9c79-a476427ca1ae.png",
+    "bbox": [
+      550,
+      172,
+      224,
+      74
+    ],
+    "instruction": "filter with featured creteria",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_9618f323-7310-4d6e-9c79-a476427ca1ae.png",
+    "bbox": [
+      490,
+      0,
+      137,
+      111
+    ],
+    "instruction": "check the wiki",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_9618f323-7310-4d6e-9c79-a476427ca1ae.png",
+    "bbox": [
+      2114,
+      0,
+      149,
+      112
+    ],
+    "instruction": "log in my account",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_533f02b1-e687-462f-9d14-5a25f54d9464.png",
+    "bbox": [
+      96,
+      372,
+      297,
+      86
+    ],
+    "instruction": "create a new page",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_7fa2512c-eaa9-4195-a8a3-a1ad5d359ff1.png",
+    "bbox": [
+      185,
+      831,
+      1476,
+      226
+    ],
+    "instruction": "check the details of the third new",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_d9841866-2ee7-4afd-a77a-8c0e52f6691c.png",
+    "bbox": [
+      1969,
+      1259,
+      42,
+      36
+    ],
+    "instruction": "close the ad banner",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_d9841866-2ee7-4afd-a77a-8c0e52f6691c.png",
+    "bbox": [
+      2467,
+      838,
+      86,
+      82
+    ],
+    "instruction": "search in the website",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_d9841866-2ee7-4afd-a77a-8c0e52f6691c.png",
+    "bbox": [
+      2118,
+      476,
+      71,
+      59
+    ],
+    "instruction": "log in by x account",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_d86766a4-4d7f-467a-899e-dcde8472e632.png",
+    "bbox": [
+      33,
+      1083,
+      51,
+      48
+    ],
+    "instruction": "share to facebook",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_11acd5dc-63ab-415f-823d-10cd68acef01.png",
+    "bbox": [
+      841,
+      307,
+      235,
+      104
+    ],
+    "instruction": "check the weather news",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_6df9c1d5-2acf-4f59-94d6-2fd9362dd8af.png",
+    "bbox": [
+      380,
+      1262,
+      131,
+      55
+    ],
+    "instruction": "follow sadie gurman",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_6df9c1d5-2acf-4f59-94d6-2fd9362dd8af.png",
+    "bbox": [
+      2371,
+      93,
+      93,
+      66
+    ],
+    "instruction": "search in the website",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_d977cce9-21cf-4eab-8d17-2aa9a616ba2f.png",
+    "bbox": [
+      629,
+      796,
+      105,
+      104
+    ],
+    "instruction": "pause reading the page",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_d977cce9-21cf-4eab-8d17-2aa9a616ba2f.png",
+    "bbox": [
+      1499,
+      814,
+      116,
+      68
+    ],
+    "instruction": "adjust reading speed",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_573eb5de-79cc-411a-a984-d7c28d8e5ce3.png",
+    "bbox": [
+      215,
+      216,
+      79,
+      119
+    ],
+    "instruction": "open the menu",
+    "data_type": "icon",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_573eb5de-79cc-411a-a984-d7c28d8e5ce3.png",
+    "bbox": [
+      948,
+      215,
+      145,
+      120
+    ],
+    "instruction": "check sports news",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_7e3c1de0-602b-48ec-bfb4-1215f33356f3.png",
+    "bbox": [
+      1437,
+      490,
+      153,
+      67
+    ],
+    "instruction": "share the article",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_1c75d12a-d93d-4cb2-b179-38009584c282.png",
+    "bbox": [
+      1541,
+      315,
+      159,
+      122
+    ],
+    "instruction": "check science news",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_1c75d12a-d93d-4cb2-b179-38009584c282.png",
+    "bbox": [
+      2256,
+      213,
+      194,
+      71
+    ],
+    "instruction": "donate to the website",
+    "data_type": "text",
+    "data_source": "forum"
+  },
+  {
+    "img_filename": "web_20979acb-d8af-4fa2-becf-ed38f73f5fcb.png",
+    "bbox": [
+      511,
+      122,
+      82,
+      68
+    ],
+    "instruction": "click to search the result",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_20979acb-d8af-4fa2-becf-ed38f73f5fcb.png",
+    "bbox": [
+      2473,
+      127,
+      85,
+      82
+    ],
+    "instruction": "zoom in on the map",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_ea184924-e155-4745-abaa-1f9d0e870c67.png",
+    "bbox": [
+      2382,
+      21,
+      153,
+      71
+    ],
+    "instruction": "sign up",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_ea184924-e155-4745-abaa-1f9d0e870c67.png",
+    "bbox": [
+      2478,
+      209,
+      79,
+      74
+    ],
+    "instruction": "zoom out",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_f2db3d49-18fb-4517-8de8-bd5d73efecb9.png",
+    "bbox": [
+      688,
+      23,
+      139,
+      66
+    ],
+    "instruction": "export the map data",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_f2db3d49-18fb-4517-8de8-bd5d73efecb9.png",
+    "bbox": [
+      2486,
+      288,
+      71,
+      82
+    ],
+    "instruction": "locate to my position",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_2d6ce349-19b2-438b-bc41-611bb64ee63b.png",
+    "bbox": [
+      2478,
+      553,
+      79,
+      74
+    ],
+    "instruction": "share the map with someone",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_21f41383-9618-40bf-92a6-df3f7c1fb251.png",
+    "bbox": [
+      1372,
+      32,
+      189,
+      46
+    ],
+    "instruction": "check the gps traces",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_21f41383-9618-40bf-92a6-df3f7c1fb251.png",
+    "bbox": [
+      2475,
+      387,
+      79,
+      79
+    ],
+    "instruction": "adjust map layers",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_dbd7514b-9ca3-40cd-b09a-990f7b955da1.png",
+    "bbox": [
+      303,
+      756,
+      172,
+      44
+    ],
+    "instruction": "view the result of erie country",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_dbd7514b-9ca3-40cd-b09a-990f7b955da1.png",
+    "bbox": [
+      615,
+      234,
+      55,
+      52
+    ],
+    "instruction": "close the search results",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_bbe84736-3a87-4cc1-b9f1-e10144d28f94.png",
+    "bbox": [
+      604,
+      127,
+      79,
+      68
+    ],
+    "instruction": "click the button to navigate to boston",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_da9f908d-568d-4d65-8587-47870f78f678.png",
+    "bbox": [
+      492,
+      18,
+      55,
+      71
+    ],
+    "instruction": "view more option of edit button",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_da9f908d-568d-4d65-8587-47870f78f678.png",
+    "bbox": [
+      2065,
+      23,
+      79,
+      55
+    ],
+    "instruction": "need help",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_7872daa1-5a12-4ada-95cc-0dd9e655fb4f.png",
+    "bbox": [
+      2098,
+      499,
+      418,
+      98
+    ],
+    "instruction": "switch map layer to the opnvkarte",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_4b78be88-30cd-401d-8d6d-4ef5a035fbda.png",
+    "bbox": [
+      1921,
+      715,
+      87,
+      90
+    ],
+    "instruction": "add a place marker on map",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_4b78be88-30cd-401d-8d6d-4ef5a035fbda.png",
+    "bbox": [
+      1650,
+      32,
+      205,
+      52
+    ],
+    "instruction": "check communities",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_352ae757-fdf0-4d02-9167-c24a42629a60.png",
+    "bbox": [
+      74,
+      403,
+      579,
+      66
+    ],
+    "instruction": "choosing the travel mode",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_60700bbc-8e31-46b0-9ef0-826647262c68.png",
+    "bbox": [
+      669,
+      398,
+      82,
+      74
+    ],
+    "instruction": "click the button with \"go\"",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_60700bbc-8e31-46b0-9ef0-826647262c68.png",
+    "bbox": [
+      85,
+      488,
+      290,
+      49
+    ],
+    "instruction": "reverse directions",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_e067ae0f-989b-4e7f-9891-aea5d284a8de.png",
+    "bbox": [
+      33,
+      805,
+      727,
+      68
+    ],
+    "instruction": "check the first listed direction",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_e067ae0f-989b-4e7f-9891-aea5d284a8de.png",
+    "bbox": [
+      604,
+      21,
+      156,
+      79
+    ],
+    "instruction": "view my map's history",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_fa131c38-3d94-4e5a-ba3a-269724d93a30.png",
+    "bbox": [
+      2292,
+      1051,
+      36,
+      36
+    ],
+    "instruction": "close the location labels on the map",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_fa131c38-3d94-4e5a-ba3a-269724d93a30.png",
+    "bbox": [
+      25,
+      1048,
+      721,
+      115
+    ],
+    "instruction": "check the direction of \"slight left onto hancock street\"",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_daa46aa2-e1ee-4391-9c27-578d5ed73cbc.png",
+    "bbox": [
+      301,
+      944,
+      164,
+      85
+    ],
+    "instruction": "click a button to export licence",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_daa46aa2-e1ee-4391-9c27-578d5ed73cbc.png",
+    "bbox": [
+      273,
+      359,
+      216,
+      85
+    ],
+    "instruction": "change the area bounding numbered \"42.3768\"",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_833f9d90-a50c-4f03-9eb6-e740aa811fa0.png",
+    "bbox": [
+      2470,
+      824,
+      90,
+      93
+    ],
+    "instruction": "Click the button to inspect map features and view details",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_833f9d90-a50c-4f03-9eb6-e740aa811fa0.png",
+    "bbox": [
+      1984,
+      1403,
+      287,
+      33
+    ],
+    "instruction": "goto openstreetmap france",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_2345b5ec-6280-470e-9a6d-92a85d8b8873.png",
+    "bbox": [
+      107,
+      1053,
+      150,
+      44
+    ],
+    "instruction": "click the \"starbucks\" located in auburn street",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_2345b5ec-6280-470e-9a6d-92a85d8b8873.png",
+    "bbox": [
+      1456,
+      26,
+      189,
+      55
+    ],
+    "instruction": "view user diaries",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_c1b9d596-c60c-47e2-a863-ef92324405ef.png",
+    "bbox": [
+      601,
+      381,
+      197,
+      38
+    ],
+    "instruction": "register now",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_c1b9d596-c60c-47e2-a863-ef92324405ef.png",
+    "bbox": [
+      257,
+      878,
+      44,
+      46
+    ],
+    "instruction": "select remember me",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_0558c1f4-c05b-49a8-8479-04b1575779d2.png",
+    "bbox": [
+      333,
+      971,
+      366,
+      36
+    ],
+    "instruction": "check openstreetmap belglum",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_c5db0d44-6584-42e2-85c7-e4802276bad0.png",
+    "bbox": [
+      30,
+      652,
+      702,
+      566
+    ],
+    "instruction": "edit note",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_c5db0d44-6584-42e2-85c7-e4802276bad0.png",
+    "bbox": [
+      33,
+      1247,
+      208,
+      90
+    ],
+    "instruction": "add note",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_c5db0d44-6584-42e2-85c7-e4802276bad0.png",
+    "bbox": [
+      1418,
+      553,
+      52,
+      55
+    ],
+    "instruction": "Click on the marker already added to the map",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_5e5f5a65-435a-424f-baf9-e5bf89b917f6.png",
+    "bbox": [
+      675,
+      220,
+      70,
+      90
+    ],
+    "instruction": "close the note bar",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_e0425287-c246-4122-a26e-6e0ca5958d4e.png",
+    "bbox": [
+      2328,
+      433,
+      123,
+      71
+    ],
+    "instruction": "select the html as share format",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_e0425287-c246-4122-a26e-6e0ca5958d4e.png",
+    "bbox": [
+      2046,
+      704,
+      415,
+      38
+    ],
+    "instruction": "check geo uri link",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_e0425287-c246-4122-a26e-6e0ca5958d4e.png",
+    "bbox": [
+      2197,
+      960,
+      123,
+      44
+    ],
+    "instruction": "select image format",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_adbf2de0-3a79-4ffd-b344-b4a068f192ea.png",
+    "bbox": [
+      391,
+      772,
+      336,
+      82
+    ],
+    "instruction": "start mapping",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_40de46fb-69c0-4de1-b4c6-9349c812450e.png",
+    "bbox": [
+      885,
+      258,
+      260,
+      93
+    ],
+    "instruction": "view the english wiki",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_40de46fb-69c0-4de1-b4c6-9349c812450e.png",
+    "bbox": [
+      1497,
+      936,
+      117,
+      82
+    ],
+    "instruction": "select search langugage",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_c6e1ac03-ebaf-4ebe-8fb2-5d6f8769f385.png",
+    "bbox": [
+      943,
+      45,
+      672,
+      74
+    ],
+    "instruction": "read wikipedia in my language",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_c6e1ac03-ebaf-4ebe-8fb2-5d6f8769f385.png",
+    "bbox": [
+      213,
+      827,
+      268,
+      82
+    ],
+    "instruction": "download wikipedia app in google play store",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_c6e1ac03-ebaf-4ebe-8fb2-5d6f8769f385.png",
+    "bbox": [
+      497,
+      829,
+      238,
+      79
+    ],
+    "instruction": "download in apple app store",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_c6e1ac03-ebaf-4ebe-8fb2-5d6f8769f385.png",
+    "bbox": [
+      2115,
+      540,
+      137,
+      33
+    ],
+    "instruction": "look into wikidata",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_467ae916-9a16-4517-85cc-f439c79e8c44.png",
+    "bbox": [
+      205,
+      1340,
+      571,
+      38
+    ],
+    "instruction": "support with a donation",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_467ae916-9a16-4517-85cc-f439c79e8c44.png",
+    "bbox": [
+      1653,
+      788,
+      126,
+      107
+    ],
+    "instruction": "search result",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_df166734-1f33-4e1d-887f-292ee9c21502.png",
+    "bbox": [
+      1667,
+      1343,
+      137,
+      36
+    ],
+    "instruction": "check wikipedia",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_df166734-1f33-4e1d-887f-292ee9c21502.png",
+    "bbox": [
+      803,
+      534,
+      150,
+      38
+    ],
+    "instruction": "goto france wikipedia",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_c762cbb8-b6b0-48e3-84ad-5c4090137fa2.png",
+    "bbox": [
+      831,
+      1023,
+      787,
+      142
+    ],
+    "instruction": "check the searching result of machine learning",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_7777a073-0358-46a8-babb-60c07c7bb17d.png",
+    "bbox": [
+      557,
+      75,
+      202,
+      82
+    ],
+    "instruction": "switch to discussion",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_7777a073-0358-46a8-babb-60c07c7bb17d.png",
+    "bbox": [
+      1041,
+      1034,
+      38,
+      36
+    ],
+    "instruction": "look into reference [1]",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_77e68e05-bbe4-4f54-96fa-79f714c17505.png",
+    "bbox": [
+      350,
+      1400,
+      49,
+      40
+    ],
+    "instruction": "check language setting",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_77e68e05-bbe4-4f54-96fa-79f714c17505.png",
+    "bbox": [
+      552,
+      1078,
+      229,
+      49
+    ],
+    "instruction": "check the hyponyms of deep learning",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_6547e373-2b01-422b-a104-988a43742ba8.png",
+    "bbox": [
+      1806,
+      1255,
+      626,
+      120
+    ],
+    "instruction": "check out the month's challenges",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_6547e373-2b01-422b-a104-988a43742ba8.png",
+    "bbox": [
+      538,
+      745,
+      1126,
+      634
+    ],
+    "instruction": "click on the picture of the day",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_6547e373-2b01-422b-a104-988a43742ba8.png",
+    "bbox": [
+      46,
+      805,
+      301,
+      44
+    ],
+    "instruction": "swith language of current web page",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_e402fd4e-8ee3-4e90-9f08-4e6b8d223022.png",
+    "bbox": [
+      538,
+      698,
+      1126,
+      634
+    ],
+    "instruction": "play the media of the day",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_e402fd4e-8ee3-4e90-9f08-4e6b8d223022.png",
+    "bbox": [
+      1617,
+      1359,
+      55,
+      46
+    ],
+    "instruction": "copy url link of the media",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_e402fd4e-8ee3-4e90-9f08-4e6b8d223022.png",
+    "bbox": [
+      68,
+      887,
+      249,
+      41
+    ],
+    "instruction": "download current webpage to local as pdf file",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_dc5cf80d-74c4-475e-928f-ee6b7ef254a1.png",
+    "bbox": [
+      1585,
+      1023,
+      180,
+      36
+    ],
+    "instruction": "open wikispecies",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_dc5cf80d-74c4-475e-928f-ee6b7ef254a1.png",
+    "bbox": [
+      2113,
+      825,
+      182,
+      39
+    ],
+    "instruction": "open mediawiki",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_6f93090a-81f6-489e-bb35-1a2838b18c01.png",
+    "bbox": [
+      1940,
+      116,
+      432,
+      68
+    ],
+    "instruction": "input word to search in wikidata",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_6f93090a-81f6-489e-bb35-1a2838b18c01.png",
+    "bbox": [
+      1464,
+      7,
+      178,
+      57
+    ],
+    "instruction": "switch language of current page",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_c95137ce-a84e-4c7c-9845-65157033e501.png",
+    "bbox": [
+      1571,
+      425,
+      423,
+      432
+    ],
+    "instruction": "open the picture of earth",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_c95137ce-a84e-4c7c-9845-65157033e501.png",
+    "bbox": [
+      1743,
+      887,
+      158,
+      41
+    ],
+    "instruction": "open wikidata article upon earth item",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_7cbc6d11-a481-45ae-a054-d89301abd2d6.png",
+    "bbox": [
+      505,
+      575,
+      716,
+      79
+    ],
+    "instruction": "enter username to create wikidate account",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_7cbc6d11-a481-45ae-a054-d89301abd2d6.png",
+    "bbox": [
+      2240,
+      392,
+      74,
+      38
+    ],
+    "instruction": "switch page's language into chinese",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_5a0b5ec0-be59-484d-a291-4965a9de9c76.png",
+    "bbox": [
+      530,
+      756,
+      669,
+      238
+    ],
+    "instruction": "refresh captcha picture",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_5a0b5ec0-be59-484d-a291-4965a9de9c76.png",
+    "bbox": [
+      746,
+      996,
+      235,
+      49
+    ],
+    "instruction": "enter text showing in capcha",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_3357799b-92ed-4ce8-8c01-452993f9397b.png",
+    "bbox": [
+      781,
+      1097,
+      869,
+      148
+    ],
+    "instruction": "open page about arsene wenger",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_2bda50e8-15d0-473a-a8cb-bd0777963756.png",
+    "bbox": [
+      792,
+      346,
+      90,
+      55
+    ],
+    "instruction": "open talk page",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_2bda50e8-15d0-473a-a8cb-bd0777963756.png",
+    "bbox": [
+      101,
+      1220,
+      219,
+      63
+    ],
+    "instruction": "unflod items about players",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_2bda50e8-15d0-473a-a8cb-bd0777963756.png",
+    "bbox": [
+      1798,
+      747,
+      489,
+      544
+    ],
+    "instruction": "open the logo of arsenal f.c ",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_cd72d06c-67ca-4ed8-b550-dcf4b33e5381.png",
+    "bbox": [
+      628,
+      1124,
+      448,
+      120
+    ],
+    "instruction": "add language",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_41a4c02b-d68f-48a0-9ea1-a5a20d2ddf3c.png",
+    "bbox": [
+      1888,
+      1165,
+      342,
+      93
+    ],
+    "instruction": "show cloth color for current season",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_41a4c02b-d68f-48a0-9ea1-a5a20d2ddf3c.png",
+    "bbox": [
+      1863,
+      504,
+      191,
+      49
+    ],
+    "instruction": "open article about mikel arteta",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_41a4c02b-d68f-48a0-9ea1-a5a20d2ddf3c.png",
+    "bbox": [
+      1694,
+      753,
+      202,
+      350
+    ],
+    "instruction": "open picture of home colours",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_be6a7bf9-9411-430f-a685-e97c75f44310.png",
+    "bbox": [
+      126,
+      1034,
+      238,
+      41
+    ],
+    "instruction": "click a hyperlink in main menu to show helps for how to edit wikipedia page information",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_dfacd48d-d2c2-492f-b94c-41e6a34ea99f.png",
+    "bbox": [
+      2011,
+      507,
+      426,
+      566
+    ],
+    "instruction": "show the picture of gloden trophy owned by ansenal",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_dfacd48d-d2c2-492f-b94c-41e6a34ea99f.png",
+    "bbox": [
+      1000,
+      1305,
+      322,
+      46
+    ],
+    "instruction": "enter the wikipedia page of champions league",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_c334b955-9eb9-48c2-998b-9f6cb87bbb8f.png",
+    "bbox": [
+      1074,
+      556,
+      292,
+      407
+    ],
+    "instruction": "open the picture of cora vitoria diehl",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_c334b955-9eb9-48c2-998b-9f6cb87bbb8f.png",
+    "bbox": [
+      2123,
+      529,
+      306,
+      393
+    ],
+    "instruction": "show the image of queen lili's uokalani of hawaii",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_b2914206-25b0-46b6-a829-c1208293c3ac.png",
+    "bbox": [
+      202,
+      7,
+      470,
+      126
+    ],
+    "instruction": "go to homepage of wikipedia",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_b2914206-25b0-46b6-a829-c1208293c3ac.png",
+    "bbox": [
+      131,
+      758,
+      350,
+      355
+    ],
+    "instruction": "open image of george frideric handel",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_22e2b9c7-0140-47aa-8e14-cfd883f3baaf.png",
+    "bbox": [
+      1014,
+      480,
+      828,
+      55
+    ],
+    "instruction": "open 'retrospect and prospect in computer-based translation' paper",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_0092e09d-acc7-4ced-8871-47cb05a0a554.png",
+    "bbox": [
+      104,
+      796,
+      57,
+      57
+    ],
+    "instruction": "let website remember account information for no logging in the next year",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_0092e09d-acc7-4ced-8871-47cb05a0a554.png",
+    "bbox": [
+      112,
+      515,
+      719,
+      71
+    ],
+    "instruction": "enter username",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_0092e09d-acc7-4ced-8871-47cb05a0a554.png",
+    "bbox": [
+      107,
+      887,
+      729,
+      79
+    ],
+    "instruction": "log in",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_3261789b-bffc-4bfb-94d3-fe2a787e3f3f.png",
+    "bbox": [
+      258,
+      1078,
+      409,
+      52
+    ],
+    "instruction": "Click to recover password",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_3261789b-bffc-4bfb-94d3-fe2a787e3f3f.png",
+    "bbox": [
+      1989,
+      53,
+      257,
+      49
+    ],
+    "instruction": "create account",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_3ff7abbd-cbd0-4396-ae77-94e34376edb5.png",
+    "bbox": [
+      1738,
+      1135,
+      309,
+      44
+    ],
+    "instruction": "open the page of bougainville island",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_dd6b5395-a2da-4d88-a971-c2815899f84d.png",
+    "bbox": [
+      202,
+      7,
+      486,
+      134
+    ],
+    "instruction": "return the homepage of mediawiki",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_dd6b5395-a2da-4d88-a971-c2815899f84d.png",
+    "bbox": [
+      309,
+      419,
+      199,
+      46
+    ],
+    "instruction": "switch to the discussion page",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_dd6b5395-a2da-4d88-a971-c2815899f84d.png",
+    "bbox": [
+      1636,
+      579,
+      801,
+      208
+    ],
+    "instruction": "open the picture of the wikimedia hackathon 2023",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_d920add5-4b0d-41a6-8de8-2b2b443e7524.png",
+    "bbox": [
+      1134,
+      1190,
+      839,
+      82
+    ],
+    "instruction": "download all mediawiki last released data",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_e32af83c-f30c-4104-82b3-d5b9a84ad5ee.png",
+    "bbox": [
+      1688,
+      632,
+      164,
+      62
+    ],
+    "instruction": "click the flag of portugal ",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_e32af83c-f30c-4104-82b3-d5b9a84ad5ee.png",
+    "bbox": [
+      852,
+      1081,
+      182,
+      57
+    ],
+    "instruction": "enter page of norway",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_e32af83c-f30c-4104-82b3-d5b9a84ad5ee.png",
+    "bbox": [
+      1586,
+      193,
+      626,
+      52
+    ],
+    "instruction": "open arsenal f.c. records and player records webpage",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_43eca188-6adf-4bfe-bb49-56dad5717132.png",
+    "bbox": [
+      711,
+      22,
+      119,
+      39
+    ],
+    "instruction": "open keras",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_43eca188-6adf-4bfe-bb49-56dad5717132.png",
+    "bbox": [
+      1618,
+      948,
+      335,
+      42
+    ],
+    "instruction": "open oracle data mining page",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_14c5f53b-8827-4d97-9adb-b3cbc4d6116a.png",
+    "bbox": [
+      1859,
+      424,
+      509,
+      761
+    ],
+    "instruction": "open image of book named machined learning",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_14c5f53b-8827-4d97-9adb-b3cbc4d6116a.png",
+    "bbox": [
+      1036,
+      341,
+      530,
+      42
+    ],
+    "instruction": "enter page of peer-reviewd scientific journal",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_14c5f53b-8827-4d97-9adb-b3cbc4d6116a.png",
+    "bbox": [
+      330,
+      131,
+      104,
+      60
+    ],
+    "instruction": "hide sidebar",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_1d69cea6-1be7-4314-8bf1-5cd8e1939911.png",
+    "bbox": [
+      2113,
+      29,
+      340,
+      62
+    ],
+    "instruction": "change page language",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_1d69cea6-1be7-4314-8bf1-5cd8e1939911.png",
+    "bbox": [
+      1044,
+      1263,
+      514,
+      39
+    ],
+    "instruction": "jump to website of 'induction of decision trees'",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_1d69cea6-1be7-4314-8bf1-5cd8e1939911.png",
+    "bbox": [
+      800,
+      141,
+      80,
+      52
+    ],
+    "instruction": "switch to talk column",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_45f9eb11-1663-440f-9e73-78a34793ac95.png",
+    "bbox": [
+      1888,
+      227,
+      556,
+      312
+    ],
+    "instruction": "play the video shown in this page",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_45f9eb11-1663-440f-9e73-78a34793ac95.png",
+    "bbox": [
+      1893,
+      549,
+      109,
+      36
+    ],
+    "instruction": "go to page of darpa",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_45f9eb11-1663-440f-9e73-78a34793ac95.png",
+    "bbox": [
+      42,
+      1239,
+      389,
+      127
+    ],
+    "instruction": "get citation of current webpage",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_df804fb9-f96e-425e-b1a3-fe8f6810a1de.png",
+    "bbox": [
+      465,
+      663,
+      55,
+      55
+    ],
+    "instruction": "delete the 'article' tag for searching",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_df804fb9-f96e-425e-b1a3-fe8f6810a1de.png",
+    "bbox": [
+      104,
+      463,
+      1501,
+      70
+    ],
+    "instruction": "input keyword in the searchbar",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_147f0485-994a-4176-bd82-88d81ab8607a.png",
+    "bbox": [
+      898,
+      756,
+      52,
+      60
+    ],
+    "instruction": "select to search in all area",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_147f0485-994a-4176-bd82-88d81ab8607a.png",
+    "bbox": [
+      112,
+      556,
+      1745,
+      75
+    ],
+    "instruction": "show advanced searching options",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_147f0485-994a-4176-bd82-88d81ab8607a.png",
+    "bbox": [
+      428,
+      1234,
+      127,
+      52
+    ],
+    "instruction": "display the next 20 searching results",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_78657904-325d-4ee2-b319-36dc1abe7e54.png",
+    "bbox": [
+      1052,
+      1083,
+      119,
+      34
+    ],
+    "instruction": "open page of gpt-2",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_78657904-325d-4ee2-b319-36dc1abe7e54.png",
+    "bbox": [
+      2332,
+      414,
+      93,
+      42
+    ],
+    "instruction": "show content of reinforcement learning",
+    "data_type": "icon",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_78657904-325d-4ee2-b319-36dc1abe7e54.png",
+    "bbox": [
+      1065,
+      943,
+      470,
+      29
+    ],
+    "instruction": "enter page of machine learning translation",
+    "data_type": "text",
+    "data_source": "tool"
+  },
+  {
+    "img_filename": "web_14087e07-67d9-494e-bdbf-16ed67985a72.png",
+    "bbox": [
+      1337,
+      299,
+      270,
+      73
+    ],
+    "instruction": "open home& kitchen part",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_14087e07-67d9-494e-bdbf-16ed67985a72.png",
+    "bbox": [
+      2062,
+      964,
+      452,
+      441
+    ],
+    "instruction": "enter detail page of icecream",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_bd7a1ecb-e3e7-4a79-ba7e-91ae27a861ba.png",
+    "bbox": [
+      2482,
+      255,
+      42,
+      57
+    ],
+    "instruction": "close the pop-up window",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_bd7a1ecb-e3e7-4a79-ba7e-91ae27a861ba.png",
+    "bbox": [
+      1914,
+      611,
+      514,
+      86
+    ],
+    "instruction": "check the detailed information of the first product in the cart",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_e103f2b7-edaf-4acc-8b85-6cfb0b9c024c.png",
+    "bbox": [
+      1750,
+      144,
+      47,
+      47
+    ],
+    "instruction": "close the alart window",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_e103f2b7-edaf-4acc-8b85-6cfb0b9c024c.png",
+    "bbox": [
+      976,
+      354,
+      112,
+      73
+    ],
+    "instruction": "confirm leaving the shopping cart",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_e103f2b7-edaf-4acc-8b85-6cfb0b9c024c.png",
+    "bbox": [
+      794,
+      357,
+      166,
+      60
+    ],
+    "instruction": "cancel leaving",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_6e4b8b0d-45fe-4d2a-864a-782e08ae8d21.png",
+    "bbox": [
+      226,
+      954,
+      267,
+      65
+    ],
+    "instruction": "remove the first item from the shopping cart",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_6e4b8b0d-45fe-4d2a-864a-782e08ae8d21.png",
+    "bbox": [
+      1530,
+      505,
+      120,
+      90
+    ],
+    "instruction": "adjust the quantity of the first item",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_8a36314e-03d8-422d-920b-d3a93c12e6a5.png",
+    "bbox": [
+      2404,
+      45,
+      114,
+      57
+    ],
+    "instruction": "sign in the website",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_8a36314e-03d8-422d-920b-d3a93c12e6a5.png",
+    "bbox": [
+      1750,
+      632,
+      701,
+      91
+    ],
+    "instruction": "show more information of the items in cart",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_8a36314e-03d8-422d-920b-d3a93c12e6a5.png",
+    "bbox": [
+      1311,
+      556,
+      49,
+      52
+    ],
+    "instruction": "view help for email account",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_8998df3c-ece5-4f78-9f34-8b6ef91b1ddb.png",
+    "bbox": [
+      1153,
+      982,
+      60,
+      47
+    ],
+    "instruction": "add the creole seasoning to favorites",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_8998df3c-ece5-4f78-9f34-8b6ef91b1ddb.png",
+    "bbox": [
+      1721,
+      1003,
+      247,
+      70
+    ],
+    "instruction": "add the cocowhip light to cart",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_8998df3c-ece5-4f78-9f34-8b6ef91b1ddb.png",
+    "bbox": [
+      1607,
+      260,
+      42,
+      49
+    ],
+    "instruction": "remove the first item from the comparison",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_98d5a92a-e7d5-4fa6-8c36-83dc78c3fce6.png",
+    "bbox": [
+      597,
+      1107,
+      338,
+      47
+    ],
+    "instruction": "forget my password",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_98d5a92a-e7d5-4fa6-8c36-83dc78c3fce6.png",
+    "bbox": [
+      1309,
+      749,
+      356,
+      83
+    ],
+    "instruction": "create an account",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_5d555c28-7e2a-4380-ad9e-4eeba9cc2383.png",
+    "bbox": [
+      356,
+      852,
+      891,
+      73
+    ],
+    "instruction": "input my password",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_2450df5d-6082-4941-8fe5-ee61df8e7021.png",
+    "bbox": [
+      486,
+      429,
+      473,
+      743
+    ],
+    "instruction": "check the information of the first product",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_2450df5d-6082-4941-8fe5-ee61df8e7021.png",
+    "bbox": [
+      844,
+      1309,
+      47,
+      39
+    ],
+    "instruction": "check the price changes for the first item",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_2450df5d-6082-4941-8fe5-ee61df8e7021.png",
+    "bbox": [
+      2129,
+      211,
+      291,
+      65
+    ],
+    "instruction": "change the sorting method",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_2450df5d-6082-4941-8fe5-ee61df8e7021.png",
+    "bbox": [
+      628,
+      198,
+      91,
+      80
+    ],
+    "instruction": "switch the product arrangement to a 2*2 grid",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_2d77202a-c8d6-4908-9def-c4635e5c4d3d.png",
+    "bbox": [
+      1309,
+      1174,
+      91,
+      156
+    ],
+    "instruction": "show next image of this item",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_2d77202a-c8d6-4908-9def-c4635e5c4d3d.png",
+    "bbox": [
+      1524,
+      1050,
+      249,
+      52
+    ],
+    "instruction": "add this item to wish list",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_8c185a73-f24a-4548-851f-eae8962b2649.png",
+    "bbox": [
+      2389,
+      9,
+      164,
+      156
+    ],
+    "instruction": "close the image window",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_8c185a73-f24a-4548-851f-eae8962b2649.png",
+    "bbox": [
+      203,
+      1234,
+      192,
+      197
+    ],
+    "instruction": "check the second image",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_2e26b177-1a3c-4e1d-b961-a584add014b7.png",
+    "bbox": [
+      839,
+      907,
+      504,
+      80
+    ],
+    "instruction": "check computers and accessories items ",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_2e26b177-1a3c-4e1d-b961-a584add014b7.png",
+    "bbox": [
+      1244,
+      22,
+      112,
+      47
+    ],
+    "instruction": "sign in the website",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_889c379a-7f36-4aad-9516-b09773cd6b84.png",
+    "bbox": [
+      2272,
+      151,
+      80,
+      68
+    ],
+    "instruction": "search the products about football",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_889c379a-7f36-4aad-9516-b09773cd6b84.png",
+    "bbox": [
+      73,
+      837,
+      379,
+      524
+    ],
+    "instruction": "check the information about the first item",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_0437294c-e652-4bc4-acbf-f0c4cf3759ba.png",
+    "bbox": [
+      239,
+      595,
+      1007,
+      841
+    ],
+    "instruction": "view the product photo",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_0437294c-e652-4bc4-acbf-f0c4cf3759ba.png",
+    "bbox": [
+      1524,
+      699,
+      109,
+      114
+    ],
+    "instruction": "change the purchase quantity of the product",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_0437294c-e652-4bc4-acbf-f0c4cf3759ba.png",
+    "bbox": [
+      1784,
+      899,
+      247,
+      52
+    ],
+    "instruction": "add this item to compare",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_29f17af5-5e60-41a0-8a0c-36a991a0a19d.png",
+    "bbox": [
+      615,
+      395,
+      31,
+      55
+    ],
+    "instruction": "rate this product with four stars",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_29f17af5-5e60-41a0-8a0c-36a991a0a19d.png",
+    "bbox": [
+      369,
+      793,
+      813,
+      190
+    ],
+    "instruction": "provide a review for the current product",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_29f17af5-5e60-41a0-8a0c-36a991a0a19d.png",
+    "bbox": [
+      369,
+      1081,
+      296,
+      70
+    ],
+    "instruction": "submit my review",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_c307580d-6e2e-4ffb-bb0d-3e156ec524e3.png",
+    "bbox": [
+      36,
+      1159,
+      361,
+      47
+    ],
+    "instruction": "check the privacy and cookie policy",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_c307580d-6e2e-4ffb-bb0d-3e156ec524e3.png",
+    "bbox": [
+      2295,
+      1164,
+      213,
+      65
+    ],
+    "instruction": "subscribe to feedback on this item",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_b5c8e65b-1d1e-4fad-8064-a3b7119d1eaa.png",
+    "bbox": [
+      1288,
+      14,
+      80,
+      73
+    ],
+    "instruction": "go to the next page",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_b5c8e65b-1d1e-4fad-8064-a3b7119d1eaa.png",
+    "bbox": [
+      1223,
+      40,
+      23,
+      29
+    ],
+    "instruction": "go to the second page",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_3b0ad239-da6b-4f6f-8f12-f674dc90ff33.png",
+    "bbox": [
+      42,
+      1102,
+      197,
+      70
+    ],
+    "instruction": "view the details of the item",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_0q7ijc.png",
+    "bbox": [
+      1211,
+      685,
+      215,
+      230
+    ],
+    "instruction": "View more details about the sword and shield item",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_0qfaj2.png",
+    "bbox": [
+      524,
+      1029,
+      92,
+      18
+    ],
+    "instruction": " check privacy policy",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_174lzg.png",
+    "bbox": [
+      1162,
+      290,
+      376,
+      158
+    ],
+    "instruction": "view more details about rental cars",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_1hc78j.png",
+    "bbox": [
+      1602,
+      10,
+      147,
+      50
+    ],
+    "instruction": "sign up ",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_35ra1b.png",
+    "bbox": [
+      1402,
+      593,
+      59,
+      28
+    ],
+    "instruction": "star the awesome-huggingface project",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_38k1l1.png",
+    "bbox": [
+      1702,
+      30,
+      57,
+      51
+    ],
+    "instruction": "search in this page",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_3dpus9.png",
+    "bbox": [
+      449,
+      144,
+      92,
+      28
+    ],
+    "instruction": "Switch the language that needs to be translated to Chinese",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_43vc1w.png",
+    "bbox": [
+      355,
+      563,
+      140,
+      50
+    ],
+    "instruction": "check the free trial",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_50x1xn.png",
+    "bbox": [
+      627,
+      644,
+      142,
+      40
+    ],
+    "instruction": "add wikipedia to wishlist",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_7bnnwq.png",
+    "bbox": [
+      1044,
+      598,
+      245,
+      56
+    ],
+    "instruction": "Click the current date",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_7so32e.png",
+    "bbox": [
+      562,
+      224,
+      799,
+      52
+    ],
+    "instruction": "search in this documentation",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_7ywy7e.png",
+    "bbox": [
+      964,
+      473,
+      337,
+      186
+    ],
+    "instruction": "switch the payment option to upgrade program",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_83raem.png",
+    "bbox": [
+      1460,
+      29,
+      76,
+      33
+    ],
+    "instruction": "Change the temperature display unit to Celsius",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_8u9hc4.png",
+    "bbox": [
+      450,
+      1015,
+      150,
+      22
+    ],
+    "instruction": "view drama books",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_8yff90.png",
+    "bbox": [
+      1724,
+      992,
+      52,
+      47
+    ],
+    "instruction": "Switch the map to 3D display mode",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_911npk.png",
+    "bbox": [
+      1712,
+      10,
+      144,
+      40
+    ],
+    "instruction": "log in",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_92ejhx.png",
+    "bbox": [
+      1187,
+      4,
+      118,
+      30
+    ],
+    "instruction": "install a steam desktop application",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_92nqwh.png",
+    "bbox": [
+      699,
+      665,
+      106,
+      27
+    ],
+    "instruction": "Change the webpage language to French",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_a5axk7.png",
+    "bbox": [
+      811,
+      78,
+      300,
+      238
+    ],
+    "instruction": "check more details about Nintendo Switch 2",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_aon6bc.png",
+    "bbox": [
+      1467,
+      480,
+      211,
+      34
+    ],
+    "instruction": "Adjust the quantity of the product",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_asqyu8.png",
+    "bbox": [
+      900,
+      73,
+      78,
+      38
+    ],
+    "instruction": "view more information about the airpods item",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_bvupbc.png",
+    "bbox": [
+      1219,
+      492,
+      121,
+      34
+    ],
+    "instruction": "learn more about earn degree credit",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_c5bdvl.png",
+    "bbox": [
+      953,
+      607,
+      154,
+      36
+    ],
+    "instruction": "Change the payment currency",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_citsb7.png",
+    "bbox": [
+      335,
+      452,
+      285,
+      59
+    ],
+    "instruction": "Purchase the latest battlegroud season pass",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_cmyhc5.png",
+    "bbox": [
+      869,
+      9,
+      95,
+      51
+    ],
+    "instruction": "check the blog",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_coivm6.png",
+    "bbox": [
+      784,
+      313,
+      27,
+      24
+    ],
+    "instruction": "switch off \"keep me logged in\" setting",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_d1bbz4.png",
+    "bbox": [
+      653,
+      670,
+      347,
+      49
+    ],
+    "instruction": "choose downloading docker in mac-apple silicon",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_dho92e.png",
+    "bbox": [
+      538,
+      604,
+      65,
+      28
+    ],
+    "instruction": "Click to mark Anna's comment as unhelpful",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_dkh41m.png",
+    "bbox": [
+      1099,
+      587,
+      24,
+      27
+    ],
+    "instruction": "Choose to sort from oldest to newest",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_e21gwr.png",
+    "bbox": [
+      1382,
+      79,
+      76,
+      53
+    ],
+    "instruction": "Modify the display font size",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_f4ww24.png",
+    "bbox": [
+      757,
+      555,
+      205,
+      40
+    ],
+    "instruction": "Choose to download PyTorch for Mac system",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_ftpvmj.png",
+    "bbox": [
+      563,
+      786,
+      138,
+      36
+    ],
+    "instruction": "Upvote Tillman's post",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_gflr2y.png",
+    "bbox": [
+      1431,
+      893,
+      44,
+      112
+    ],
+    "instruction": "View the next page of the browse by category section",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_h5egmj.png",
+    "bbox": [
+      216,
+      757,
+      46,
+      40
+    ],
+    "instruction": "adjust the volume of the currently playing video",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_hmoge1.png",
+    "bbox": [
+      1369,
+      82,
+      250,
+      230
+    ],
+    "instruction": "check whatsapp business",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_hnoy0b.png",
+    "bbox": [
+      1858,
+      1027,
+      60,
+      39
+    ],
+    "instruction": "click to close the privacy information bar",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_ir7ddl.png",
+    "bbox": [
+      814,
+      118,
+      158,
+      36
+    ],
+    "instruction": "stop seeing the ads",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_isogec.png",
+    "bbox": [
+      162,
+      828,
+      118,
+      27
+    ],
+    "instruction": "view more replies from user 'offialwildcardadventures' reply",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_j2wrmj.png",
+    "bbox": [
+      1472,
+      723,
+      329,
+      83
+    ],
+    "instruction": "choose the 1Tb storage",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_j3nekk.png",
+    "bbox": [
+      1741,
+      8,
+      142,
+      72
+    ],
+    "instruction": "view my account profile",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_j7u75j.png",
+    "bbox": [
+      1881,
+      1052,
+      27,
+      27
+    ],
+    "instruction": "Close the pop-up window in the bottom right corner",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_jn0jbi.png",
+    "bbox": [
+      748,
+      681,
+      59,
+      23
+    ],
+    "instruction": "upvote MagicJoshByGosh's reply",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_kj0f2t.png",
+    "bbox": [
+      968,
+      373,
+      246,
+      41
+    ],
+    "instruction": "enter my own password for logging in",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_m76p3o.png",
+    "bbox": [
+      976,
+      990,
+      109,
+      34
+    ],
+    "instruction": "add black myth to my steam cart",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_mqbuo5.png",
+    "bbox": [
+      934,
+      7,
+      139,
+      72
+    ],
+    "instruction": "view the community of minecraft",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_nnxneu.png",
+    "bbox": [
+      439,
+      556,
+      211,
+      348
+    ],
+    "instruction": "view more videos about VALORANT",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_nzts74.png",
+    "bbox": [
+      1244,
+      937,
+      251,
+      79
+    ],
+    "instruction": "view more details about ResearchGate",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_oh7753.png",
+    "bbox": [
+      753,
+      943,
+      320,
+      130
+    ],
+    "instruction": "view classic rock's video",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_q8t3el.png",
+    "bbox": [
+      661,
+      474,
+      65,
+      33
+    ],
+    "instruction": "View the comments on the first article about Musk on the page",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_ql1kqj.png",
+    "bbox": [
+      937,
+      320,
+      246,
+      128
+    ],
+    "instruction": "Play the video explaining the physical characteristics of Mars",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_qltu7f.png",
+    "bbox": [
+      1481,
+      448,
+      88,
+      35
+    ],
+    "instruction": "Follow the Twitter account of 'Ask PayPal'",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_r2k5yc.png",
+    "bbox": [
+      1194,
+      225,
+      94,
+      91
+    ],
+    "instruction": "Download DuckDuckGo as a Firefox browser extension",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_rlhjuk.png",
+    "bbox": [
+      684,
+      216,
+      174,
+      130
+    ],
+    "instruction": "View the weather details for Beijing",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_s3z321.png",
+    "bbox": [
+      1199,
+      340,
+      42,
+      34
+    ],
+    "instruction": "Copy the HTTP download link for this GitHub project",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_s6sun5.png",
+    "bbox": [
+      1752,
+      29,
+      46,
+      33
+    ],
+    "instruction": "View my shopping cart",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_sz54xt.png",
+    "bbox": [
+      974,
+      422,
+      146,
+      45
+    ],
+    "instruction": "Reject all privacy terms",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_tpgtas.png",
+    "bbox": [
+      1072,
+      597,
+      192,
+      60
+    ],
+    "instruction": "Click to send the verification code to the specified email address",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_tpwp1v.png",
+    "bbox": [
+      1526,
+      628,
+      156,
+      140
+    ],
+    "instruction": "check shoes under 50 dollars in \"shop deals in fashion\" part",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_ts6lzz.png",
+    "bbox": [
+      871,
+      579,
+      203,
+      193
+    ],
+    "instruction": "check the book named Ms. Rachel",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_uilgwu.png",
+    "bbox": [
+      589,
+      486,
+      195,
+      55
+    ],
+    "instruction": "Select the time of day for the reserved vehicle to arrive",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_ujxrkl.png",
+    "bbox": [
+      681,
+      445,
+      117,
+      99
+    ],
+    "instruction": "Replay the current video",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_uvhr8l.png",
+    "bbox": [
+      1026,
+      91,
+      79,
+      39
+    ],
+    "instruction": "donate to python project",
+    "data_type": "text",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_vlk2rj.png",
+    "bbox": [
+      211,
+      668,
+      33,
+      21
+    ],
+    "instruction": "Check the Mega products in the brand selection",
+    "data_type": "icon",
+    "data_source": "shop"
+  },
+  {
+    "img_filename": "web_y5xkl0.png",
+    "bbox": [
+      366,
+      391,
+      156,
+      51
+    ],
+    "instruction": "register now for pytorch",
+    "data_type": "text",
+    "data_source": "shop"
+  }
+]
