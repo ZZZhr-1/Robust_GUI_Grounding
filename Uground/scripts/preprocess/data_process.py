@@ -10,8 +10,8 @@ from qwen_vl_utils import process_vision_info
 from PIL import Image
 import re
 
-from params import DataArguments
-from constants import *
+from .params import DataArguments
+from .constants import *
 
 def truncate_sequence(input_ids, labels, max_length, eos_token_id):
     if input_ids.size(0) > max_length:
