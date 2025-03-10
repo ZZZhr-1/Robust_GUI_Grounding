@@ -106,13 +106,13 @@ Answer:"""},
         try:
             if 'box' in output_text:
                 pred_bbox = extract_bbox(output_text)
-                print(pred_bbox)
                 click_point = [(pred_bbox[0][0] + pred_bbox[1][0]) / 2, (pred_bbox[0][1] + pred_bbox[1][1]) / 2]
                 click_point = [item / 1000 for item in click_point]
             else:
                 click_point = pred_2_point(output_text)
                 click_point = [item / 1000 for item in click_point]
             # check acc
+            print(click_point)
             if (bbox[0] <= click_point[0] <= bbox[2]) and (bbox[1] <= click_point[1] <= bbox[3]):
                 corr_action += 1
                 if item["data_type"] == 'text':
@@ -177,4 +177,4 @@ logging.info(tasks_result_asr)
 
 with open("Uground_check_result.txt", 'a+') as f:
     f.write(str(tasks_result)+'\n'+str(tasks_result_asr)+'\n')
-json.dump(result, open("result_check_web.json", 'w'), indent=2)
+# json.dump(result, open("result_check_web.json", 'w'), indent=2)
