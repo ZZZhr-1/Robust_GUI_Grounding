@@ -36,7 +36,7 @@ tasks_result = []
 tasks_result_asr = []
 result = []
 for task in tasks:
-    dataset = "screenspot_" + task + "os_target.json"
+    dataset = "screenspot_" + task + "_os_target.json"
     screenspot_data = json.load(open(os.path.join(args.screenspot_test, dataset), 'r'))
     # screenspot_data = json.load(open(args.screenspot_test, 'r'))
     print("Num of sample: " + str(len(screenspot_data)))

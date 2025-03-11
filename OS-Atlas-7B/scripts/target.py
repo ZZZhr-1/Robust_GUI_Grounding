@@ -76,7 +76,7 @@ for idx, batch in enumerate(train_dataloader):
 
     restored = restore_images(pixel_values, grid_t=grid_t, grid_h=grid_h, grid_w=grid_w, merge_size=2, temporal_patch_size=2, patch_size=14, channel=3, data_format='channels_first')[0]
     delta = torch.zeros_like(restored, requires_grad=True).to(model.device)
-    iter_bar = tqdm(range(iters), desc="Adversarial Iterations", leave=False)
+    iter_bar = tqdm(range(iters), desc="Adversarial Iterations")
     for i in iter_bar:
         adv_images = restored + delta
         pixels, thw = pixel_reshape(image=adv_images, patch_size=14, merge_size=2, temporal_patch_size=2)
