@@ -18,7 +18,7 @@ replace generation_config.json & preprocessor_config.json for Uground (Default h
 
 ### run
 
-need to be completed：
+need to run：
 
 1. Uground target
 

@@ -7,7 +7,7 @@ python scripts/target.py \
     --model_path $MODEL_PATH \
     --screenspot_imgs ../datas/screenspotv2_image \
     --screenspot_test ../datas/screenspotv2_mobile_ug_target.json \
-    --output_path ../outputs/ug/target/test\
+    --output_path ../outputs/ug/target\
     --max_pixels 1024
 
 python scripts/target.py \
