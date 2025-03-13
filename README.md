@@ -14,7 +14,9 @@ transformers==4.45.1
 
 Download Model `osunlp/UGround-V1-7B`&`OS-Copilot/OS-Atlas-Base-7B`
 
-replace generation_config.json & preprocessor_config.json for Uground (Default huggingface model path: ~/.cache/huggingface/modules/transformers_modules/UGround-V1-7B)
+replace `generation_config.json` & `preprocessor_config.json` for Uground
+
+(Default huggingface model path: ~/.cache/huggingface/modules/transformers_modules/UGround-V1-7B)
 
 ### run
 
