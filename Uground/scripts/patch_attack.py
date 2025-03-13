@@ -55,8 +55,8 @@ tokenizer = processor.tokenizer
 scaling_tensor = torch.tensor((0.26862954, 0.26130258, 0.27577711)).to('cuda')
 scaling_tensor = scaling_tensor.reshape((3, 1, 1)).to('cuda')
 iters = 100
-step_size = 1
-epsilon = 16
+step_size = 2.5
+epsilon = 255
 step_size = step_size / 255.0 / scaling_tensor
 epsilon = epsilon / 255.0 / scaling_tensor
 inverse_normalize = torchvision.transforms.Normalize(mean=[-0.48145466 / 0.26862954, -0.4578275 / 0.26130258, -0.40821073 / 0.27577711], std=[1.0 / 0.26862954, 1.0 / 0.26130258, 1.0 / 0.27577711])
@@ -78,13 +78,10 @@ for idx, batch in enumerate(train_dataloader):
     delta = torch.zeros_like(restored, requires_grad=True).to(model.device)
     mask = torch.zeros_like(restored, requires_grad=False).to(model.device)
     _, H, W = restored.shape  # 获取高度和宽度
-    # 计算左下角 mask 的高度和宽度
-    mask_h = int(0.15 * H)
-    mask_w = int(0.15 * W)
+    mask_h = int(0.1 * H)
+    mask_w = int(0.1 * W)
 
-    # 在右下角区域设置为 1
-    # TODO 随机位置
-    mask[:, -mask_h:, -mask_w:] = 1
+    mask[:, :mask_h, :mask_w] = 1
 
     iter_bar = tqdm(range(iters), desc="Adversarial Iterations")
     for i in iter_bar:
