@@ -1,51 +1,3 @@
-## One-step
-
-### Env
-
-python 3.10
-
-transformers==4.45.1
-
-`pip install -r requirements.txt`
-
-### pre
-
-`bash download.sh` Download screenspot-v2 images to datas
-
-Download Model `osunlp/UGround-V1-7B`&`OS-Copilot/OS-Atlas-Base-7B`
-
-replace `generation_config.json` & `preprocessor_config.json` for Uground
-
-(Default huggingface model path: ~/.cache/huggingface/modules/transformers_modules/UGround-V1-7B)
-
-### run
-
-need to run：
-
-1. Uground target
-
-```
-cd Uground
-bash one_step.sh
-```
-
-2. OS-Atlas-7B target & untarget
-
-```
-cd OS-Atlas-7B
-bash one_step.sh
-```
-
-default cuda deivice `CUDA_VISIBLE_DEVICES=0`
-
-default model path `OS-Copilot/OS-Atlas-Base-7B` & `osunlp/UGround-V1-7B`
-
-(modify on one_step.sh)
-
-### result
-
-result on os_check_result.txt & Uground_check_result.txt
-
 ## Environment
 
 python 3.10
@@ -58,11 +10,13 @@ transformers==4.45.1
 
 `bash download.sh` Download screenspot-v2 images to datas
 
-replace generation_config.json & preprocessor_config.json for Uground (Default huggingface model path: ~/.cache/huggingface/modules/transformers_modules/UGround-V1-7B)
+Download Model `osunlp/UGround-V1-7B`&`OS-Copilot/OS-Atlas-Base-7B`
 
 ## Uground
 
-replace generation_config.json & preprocessor_config.json for Uground (Default huggingface model path: ~/.cache/huggingface/modules/transformers_modules/UGround-V1-7B)
+replace `generation_config.json` & `preprocessor_config.json` for Uground
+
+(Default huggingface model path: ~/.cache/huggingface/modules/transformers_modules/UGround-V1-7B)
 
 cd Uground
 

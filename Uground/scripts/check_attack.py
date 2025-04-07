@@ -134,6 +134,8 @@ Answer:"""},
                 else:
                     icon_correct_asr.append(1)
                 logging.info("attack sr " + str(corr_action_asr / num_action))
+                # with open("temp.txt", 'a+') as f:
+                #     f.write(str(id)+' '+str(click_point)+'\n')
             else:
                 if item["data_type"] == 'text':
                     text_correct_asr.append(0)
@@ -177,4 +179,4 @@ logging.info(tasks_result_asr)
 
 with open("Uground_check_result.txt", 'a+') as f:
     f.write(str(tasks_result)+'\n'+str(tasks_result_asr)+'\n')
-# json.dump(result, open("result_check_web.json", 'w'), indent=2)
+json.dump(result, open("result_check_web.json", 'w'), indent=2)

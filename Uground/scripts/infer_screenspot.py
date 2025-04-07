@@ -117,6 +117,8 @@ Answer:"""},
                     text_correct.append(0)
                 else:
                     icon_correct.append(0)
+                with open("temp2.txt", 'a+') as f:
+                    f.write(str(filename)+' '+str(click_point)+'\n')
                 logging.info("unmatch " + str(corr_action / num_action))
             result.append({"img_path": img_path, "text": instruction, "bbox": bbox, "pred": click_point,
                            "type": item["data_type"], "source": item["data_source"]})

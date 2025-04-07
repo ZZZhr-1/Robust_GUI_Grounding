@@ -1,4 +1,16 @@
 datas/screenspotv2_image.zip
 datas/screenspotv2_image
 datas/noisy_images
+datas/noisy_images_s
 outputs
+OS-Atlas-7B/os_check_result.txt
+OS-Atlas-7B/OS_infer_result.txt
+OS-Atlas-7B/one_step.sh
+
+Uground/Uground_check_result.txt
+Uground/Uground_infer_result.txt
+Uground/one_step.sh
+Uground/patch.sh
+Uground/scripts/patch_attack.py
+
+Uground-2B/
