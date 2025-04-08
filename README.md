@@ -119,3 +119,14 @@ CUDA_VISIBLE_DEVICES=3 python scripts/infer_screenspot.py \
 ```
 
 output: os_infer_result.txt
+
+```
+@article{zhao2025robustnessgui,
+      title={On the Robustness of GUI Grounding Models Against Image Attacks}, 
+      author={Haoren Zhao and Tianyi Chen and Zhen Wang},
+      year={2025},
+      eprint={2504.04716},
+      archivePrefix={arXiv},
+      url={https://arxiv.org/abs/2504.04716}, 
+}
+```
