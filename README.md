@@ -125,11 +125,14 @@ output: os_infer_result.txt
 If you find our work helpful, please consider citing our paper:
 
 ```
-@article{zhao2025robustnessgui,
-     title={On the Robustness of GUI Grounding Models Against Image Attacks}, 
-     author={Haoren, Zhao and Tianyi, Chen and Zhen, Wang},
-     journal={arXiv preprint arXiv:2504.04716},
-     year={2025}
+@misc{zhao2025robustnessguigroundingmodels,
+      title={On the Robustness of GUI Grounding Models Against Image Attacks}, 
+      author={Haoren Zhao and Tianyi Chen and Zhen Wang},
+      year={2025},
+      eprint={2504.04716},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2504.04716}, 
 }
 ```
 If you have any questions, please feel free to leave issues.
