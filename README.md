@@ -120,7 +120,7 @@ CUDA_VISIBLE_DEVICES=3 python scripts/infer_screenspot.py \
 
 output: os_infer_result.txt
 
-## Acknowledgement
+## Citation
 
 If you find our work helpful, please consider citing our paper:
 
